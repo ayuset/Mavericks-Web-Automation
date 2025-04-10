@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ini-kategori4_editBtn</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>26dd310b-d46a-4b84-a707-130e6f8e9b39</elementGuidId>
+   <elementGuidId>b641fa92-4eea-4499-ac4d-cf1e3d7944d1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='editBtn']</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#editBtn</value>
+         <value>button.btn.btn-link.position-absolute</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,110 +23,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ea87f93b-f5b9-45b7-85fa-4913a60af4f9</webElementGuid>
+      <webElementGuid>cf25f499-5577-477a-9562-f19b642773fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>editBtn</value>
-      <webElementGuid>91abab0d-7022-46ba-91b3-7089ee353c88</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ngbtooltip</name>
-      <type>Main</type>
-      <value>Edit</value>
-      <webElementGuid>b7ed39be-a8c5-4784-a98c-2a5391d738f4</webElementGuid>
+      <value>button</value>
+      <webElementGuid>cec3efeb-40ad-4972-b3a6-4886ce09a82e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-sm btn-outline-primary</value>
-      <webElementGuid>3137f2aa-98d1-4890-8636-c2a05934da91</webElementGuid>
+      <value>btn btn-link position-absolute</value>
+      <webElementGuid>acbdfca1-fe20-4f73-a94a-a9300bb9fb8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
+      <name>text</name>
       <type>Main</type>
-      <value>ngb-tooltip-61</value>
-      <webElementGuid>30afb6eb-1a99-4a9f-9885-e0582c05071d</webElementGuid>
+      <value> ✖ </value>
+      <webElementGuid>a4f5b24e-8bf3-4aec-bed8-4fe6174f0b38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;DataTables_Table_1&quot;)/tbody[1]/tr[1]/td[5]/div[@class=&quot;d-flex justify-content-center align-items-center column-gap-2&quot;]/button[@id=&quot;editBtn&quot;]</value>
-      <webElementGuid>c2661c8c-a8e2-4e47-8486-93eb4845c2c6</webElementGuid>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-list-user[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/div[@class=&quot;d-flex column-gap-2&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/button[@class=&quot;btn btn-link position-absolute&quot;]</value>
+      <webElementGuid>f0296436-ce0b-4665-8ee5-94a3d924d983</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='editBtn']</value>
-      <webElementGuid>d13322a7-f8db-4fd2-9d33-bfe886f4bb9c</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>0c52795d-ad2c-4031-a515-10880d379dee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='DataTables_Table_1']/tbody/tr/td[5]/div/button[2]</value>
-      <webElementGuid>873649a9-3364-45e9-81d3-869d2b8e48ce</webElementGuid>
+      <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-list-user/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>0df2d452-919e-416b-bda1-402a3391c7c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ini-kategori4'])[1]/following::button[2]</value>
-      <webElementGuid>970cc304-6fb5-4690-9020-092ad147517b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar User'])[1]/following::button[1]</value>
+      <webElementGuid>7c4aa176-bf81-427e-95dc-cdfb19c25507</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini kategori4'])[1]/following::button[2]</value>
-      <webElementGuid>57e5cba1-453c-47b4-ace3-33b1398e7bab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/following::button[1]</value>
+      <webElementGuid>ac113d1a-44e2-450d-bc34-9f644fecce8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
-      <webElementGuid>eef8897d-6080-49e5-a052-bca5a56122c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah User'])[1]/preceding::button[1]</value>
+      <webElementGuid>79faa564-aeb2-40d2-a3da-0532708e801b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini kategori'])[1]/preceding::button[2]</value>
-      <webElementGuid>dda9bf9f-8597-4b76-b0d9-4430d8ccbda6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='✖']/parent::*</value>
+      <webElementGuid>b87ee1bf-3c18-4b06-af95-8bd3cfee0659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>6bfab0cf-81dc-4c27-9fab-fbf849638155</webElementGuid>
+      <value>//div/div/div/div/div/button</value>
+      <webElementGuid>4058e445-7bb4-4e97-8928-c3722e1bc538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'editBtn']</value>
-      <webElementGuid>0c64974f-0ff7-4704-9a0c-d6c55c47e6ea</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' ✖ ' or . = ' ✖ ')]</value>
+      <webElementGuid>ff688e8e-e3ca-4772-ac35-c90ac416af18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

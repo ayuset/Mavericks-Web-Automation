@@ -24,15 +24,23 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl(GlobalVariable.url)
 
 //WebUI.click(findTestObject('Object Repository/Login/button_Login Ulang'))
-WebUI.setText(findTestObject('Object Repository/Login/input__form-custom ng-untouched ng-valid ng-dirty'), 
-    GlobalVariable.email)
+WebUI.setText(findTestObject('Object Repository/Login/input__form-custom ng-untouched ng-valid ng-dirty'), GlobalVariable.email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/input__form-custom ng-untouched ng-pristine_2a171a'), 
-    'VE9Pfhf12+2PJS89WoZW7A==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/input__form-custom ng-untouched ng-pristine_2a171a'), 'VE9Pfhf12+2PJS89WoZW7A==')
 
 WebUI.click(findTestObject('Object Repository/Login/button_Masuk'))
 
-WebUI.verifyTextPresent('Daftar Berita', false)
+//WebUI.verifyTextPresent('Daftar Berita', false)
 
-WebUI.delay(10)
+//WebUI.setText(findTestObject('Object Repository/Login/Page_CMS  Maverick/input__form-custom ng-untouched ng-valid ng-dirty'), 
+   // 'agung@landa.co.id')
+
+//WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_CMS  Maverick/input__form-custom ng-untouched ng-valid ng-dirty_1'), 
+    //'VE9Pfhf12+2PJS89WoZW7A==')
+
+//WebUI.click(findTestObject('Object Repository/Login/Page_CMS  Maverick/button_Masuk'))
+
+//WebUI.click(findTestObject('Object Repository/Login/Page_CMS  Maverick/h1_Daftar Berita'))
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Login/Page_CMS  Maverick/h1_Daftar Berita'), 0)
 

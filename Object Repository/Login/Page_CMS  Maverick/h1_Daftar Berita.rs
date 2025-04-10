@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Kategori</name>
+   <name>h1_Daftar Berita</name>
    <tag></tag>
-   <elementGuidId>934cc345-a9ef-448d-808a-898cbc3b296d</elementGuidId>
+   <elementGuidId>4df81356-b233-456d-bd9e-72225f98f36b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='topnav-kategori']/span</value>
+         <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-dashboard/div/div/div/div/div/h1</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ms-2</value>
+         <value>h1.ms-3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>4bdaac97-4107-4bb0-89f2-da7704e8a056</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>b547d3cf-15fd-411c-a2cf-05417d0d0fc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ms-2</value>
-      <webElementGuid>2f818a17-7223-439e-9bdf-5e6a4f9248f8</webElementGuid>
+      <value>ms-3</value>
+      <webElementGuid>1ee6824f-ebf6-43f2-9a1d-6f8dbb61a913</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kategori</value>
-      <webElementGuid>e5984dc3-2405-44f8-be99-395c179a318f</webElementGuid>
+      <value> Daftar Berita </value>
+      <webElementGuid>fab2fe31-9b21-43a7-be88-6739c72dc8ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;topnav-kategori&quot;)/span[@class=&quot;ms-2&quot;]</value>
-      <webElementGuid>7fb33e44-3f00-47d8-9a91-2f2793652592</webElementGuid>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-dashboard[1]/div[@class=&quot;news-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/h1[@class=&quot;ms-3&quot;]</value>
+      <webElementGuid>33ecfa58-dcb4-4790-bf22-2e1afd3942d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='topnav-kategori']/span</value>
-      <webElementGuid>d2568908-ec31-475f-9bac-631b35ac46d1</webElementGuid>
+      <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-dashboard/div/div/div/div/div/h1</value>
+      <webElementGuid>90b26b1d-6f4c-499b-b609-bcdb897d6e0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::span[1]</value>
-      <webElementGuid>e57cf794-0e12-4e4c-be1c-b9cc02248ca9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/following::h1[1]</value>
+      <webElementGuid>247b44c9-8b7e-4f14-9e4e-296d5e567a30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tag'])[1]/following::span[1]</value>
-      <webElementGuid>e2eea195-208f-4bcc-9d59-f65b0b3eafdf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/following::h1[1]</value>
+      <webElementGuid>36ae9ab7-bba3-4a8d-879d-56fe5ef3668e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Gambar'])[1]/preceding::span[1]</value>
-      <webElementGuid>53e20edd-e339-411f-9ed4-03bd04883680</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Berita'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a43e903a-a0ad-41f0-9263-51bf3b697fe4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::span[2]</value>
-      <webElementGuid>606600a5-cbf1-43c2-9ba1-ff885a298017</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Daftar Berita']/parent::*</value>
+      <webElementGuid>ae97b594-71bf-473d-9fbc-81656ddba0ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/span</value>
-      <webElementGuid>b3cafb5e-4a96-49e1-b4ff-59566ec33d5e</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>f1dc5491-3d58-4a95-aa73-b25fe63f8a4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Kategori' or . = 'Kategori')]</value>
-      <webElementGuid>bddfb1ad-178c-499a-929d-b20ecdaf7b71</webElementGuid>
+      <value>//h1[(text() = ' Daftar Berita ' or . = ' Daftar Berita ')]</value>
+      <webElementGuid>bf07aa20-6c07-4bcf-932a-531d0d256766</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

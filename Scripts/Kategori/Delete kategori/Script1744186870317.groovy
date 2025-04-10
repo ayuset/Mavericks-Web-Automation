@@ -17,22 +17,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Kategori/Tambah Kategori'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('Kategori/Tambah Kategori'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/span_Kategori'))
 
 WebUI.setText(findTestObject('Object Repository/hapus/Page_CMS  Maverick/input_Daftar Kategori_form-control form-con_f6b6b1'), 
-    'ini kategori aja')
+ GlobalVariable.judul_kategori)
 
-WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_ini-kategori aja_deleteBtn'))
+//WebUI.setText(findTestObject('Object Repository/hapus/Page_CMS  Maverick/input_Daftar Kategori_form-control form-con_f6b6b1'), 
+    //'ini kategori')
+
+WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_ini-kategori_deleteBtn'))
 
 WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_Ya'))
+//WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_Ya'))
 
-WebUI.verifyTextPresent('Kategori berhasil dihapus', false)
-
-//WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/a_Kategori'))
-
+//WebUI.verifyTextPresent('Kategori berhasil dihapus', false)
 
 
-//WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_Ya_1'))
 

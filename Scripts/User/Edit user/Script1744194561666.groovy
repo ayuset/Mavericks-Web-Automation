@@ -17,26 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('User/Tambah user'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('User/Tambah user'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/a_User'))
 
-//WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_user_automation@gmail.com_editBtn'))
+WebUI.setText(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/input_Daftar User_form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid'), 
+    GlobalVariable.nama_user)
 
-//WebUI.setText(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/input_Nama_name'), 'user auto3')
+WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_user_dgmail.com_editBtn'))
 
-//WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_Simpan'))
-
-//WebUI.setEncryptedText(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/input__form-custom ng-untouched ng-valid ng-dirty'), 
-   // 'VE9Pfhf12+2PJS89WoZW7A==')
-
-//WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_Masuk'))
-
-//WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/a_User'))
-
-WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_user_automationgmail.com_editBtn'))
-
-WebUI.setText(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/input_Nama_name'), 'user auto1')
+WebUI.setText(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/input_Nama_name'), GlobalVariable.nama_user_edit)
 
 WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_'))
+
+WebUI.setText(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/input_Daftar User_form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid'), 
+    GlobalVariable.nama_user_edit)
+
+WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_user_dgmail.com_deleteBtn'))
+
+WebUI.click(findTestObject('Object Repository/User/Edit user/Page_CMS  Maverick/button_Ya'))
 

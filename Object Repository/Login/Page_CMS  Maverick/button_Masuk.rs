@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Simpan</name>
+   <name>button_Masuk</name>
    <tag></tag>
-   <elementGuidId>66d59b66-f82d-4a1d-a3dd-f201a5c09a0c</elementGuidId>
+   <elementGuidId>78382188-5f81-487c-8c7f-00c3dd51a519</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.d-flex.justify-content-end > button.btn.btn-primary</value>
+         <value>button.btn-login.bg-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>82b7a7a5-b4df-4473-a0a6-91b08a60c835</webElementGuid>
+      <webElementGuid>894be155-2c8b-49a8-a4ab-fab679927787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2f2f3607-2e95-4cb8-87b9-060779c18710</webElementGuid>
+      <webElementGuid>8f42bee2-36bd-4376-a202-d007e19f21e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>05c4938a-2885-4d3a-b87c-5bb21ebd1428</webElementGuid>
+      <value>btn-login bg-primary</value>
+      <webElementGuid>1d33c8c7-4d89-4ea0-8f1e-c2a3a400234f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Simpan </value>
-      <webElementGuid>a0466867-1517-4f12-aa83-0db62f7f88b8</webElementGuid>
+      <value> Masuk </value>
+      <webElementGuid>ad5b1fe5-18a6-41c9-96c0-4cd20fb775fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-form-user[1]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>6401f3f4-013e-4c90-ad60-984033c97c21</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;row main-pages&quot;]/div[@class=&quot;col-12 d-flex justify-content-center align-items-center&quot;]/section[@class=&quot;form-section&quot;]/div[@class=&quot;content mt-5 mb-5&quot;]/div[@class=&quot;row shadow-lg&quot;]/div[@class=&quot;col-12 mb-4 px-4 text-center&quot;]/button[@class=&quot;btn-login bg-primary&quot;]</value>
+      <webElementGuid>888a71b8-eec4-4ab8-b765-e0a6d821db59</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,46 +63,38 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>e31654cc-4248-4d53-bfa3-9ceb62497cf8</webElementGuid>
+      <webElementGuid>a46d5262-5d4d-40cd-a497-ae7c3dd1db46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kosongi password jika tidak diubah'])[1]/following::button[1]</value>
-      <webElementGuid>541313a7-8d14-48e1-be39-ef00c26b95dc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
+      <webElementGuid>7a47617b-a0b1-43e0-aff2-694d40954270</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>da1841e4-949f-4146-a927-ac1cfcc6f408</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
-      <webElementGuid>f63f6734-44ce-43c3-9159-f96b6a380e35</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>a01aaab6-22c8-4111-aa26-451d9de6db0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/div/div/div/div[2]/button</value>
-      <webElementGuid>486e17ba-dd17-4b1a-b1bc-7bd9d95c61a4</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>1f649a9c-336b-40f4-a316-a7ca4efc4b1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Simpan ' or . = ' Simpan ')]</value>
-      <webElementGuid>d94db29b-f828-4ad0-9737-3221c72c6042</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>4958e5b6-86f8-4b2a-ab1a-c39c478b91c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

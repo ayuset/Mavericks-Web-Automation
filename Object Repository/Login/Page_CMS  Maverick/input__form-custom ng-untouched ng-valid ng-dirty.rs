@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Judul Kategori_title</name>
+   <name>input__form-custom ng-untouched ng-valid ng-dirty</name>
    <tag></tag>
-   <elementGuidId>6289315e-0839-44cc-9add-f7c546861674</elementGuidId>
+   <elementGuidId>30c1fbd2-401c-47d1-8a9f-8da18c74d669</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='title']</value>
+         <value>//input[@type='email']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#title</value>
+         <value>input.form-custom.ng-untouched.ng-valid.ng-dirty</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0499b61c-04d4-43ec-9e2c-169ff0b6857d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>72a65004-1289-4737-85da-2788d165c6e5</webElementGuid>
+      <webElementGuid>e72fd398-7b89-4b55-b9b3-4978bc26e0cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>49c521a8-fa1a-44af-9510-7b33d3be397a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>2046bd4e-8130-4128-9862-dc6322f98fb3</webElementGuid>
+      <value>email</value>
+      <webElementGuid>858a76a5-31c5-41e0-bf7e-833d0537bfc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Isikan Judul Kategori...</value>
-      <webElementGuid>620d34c7-eba3-4496-b630-7d6ff8ab5495</webElementGuid>
+      <value>Email Address.....</value>
+      <webElementGuid>46aa35b1-1500-403f-9aeb-99d029b5eb29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>864ce8d9-8459-45e2-816a-abd5cba880e9</webElementGuid>
+      <value>form-custom ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>e07c424b-078f-423b-b583-5c82e121690c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title&quot;)</value>
-      <webElementGuid>6bca3e6e-d355-4b3d-900e-9d0d8295d78c</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;row main-pages&quot;]/div[@class=&quot;col-12 d-flex justify-content-center align-items-center&quot;]/section[@class=&quot;form-section&quot;]/div[@class=&quot;content mt-5 mb-5&quot;]/div[@class=&quot;row shadow-lg&quot;]/div[@class=&quot;col-12 mb-3 px-4&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-custom ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>59608c9c-d0ba-404b-9ad1-b047095727e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='title']</value>
-      <webElementGuid>429f474f-6ee1-41d5-941f-f8e6ac892393</webElementGuid>
+      <value>//input[@type='email']</value>
+      <webElementGuid>65d39415-5911-4dc9-8f5c-e590bccd294c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>27b4f17d-a39a-4801-8ae2-24fa62b0c2c3</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>c1928052-3a27-4c08-9330-436e850eae1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'title' and @type = 'text' and @name = 'title' and @placeholder = 'Isikan Judul Kategori...']</value>
-      <webElementGuid>671c23c2-cd8b-4d57-aa3e-ccd41ceed6b8</webElementGuid>
+      <value>//input[@type = 'email' and @placeholder = 'Email Address.....']</value>
+      <webElementGuid>5ccc0c40-9044-4977-b4b0-a7d1b96a4bee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

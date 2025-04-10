@@ -6,12 +6,12 @@
    <elementGuidId>3cbf97eb-f215-406d-a5b4-0e1d2fb2755f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-of-type(6) > td.vertical-middle.text-right > div.d-flex.justify-content-center.align-items-center.column-gap-2 > #editBtn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@id='editBtn'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(6) > td.vertical-middle.text-right > div.d-flex.justify-content-center.align-items-center.column-gap-2 > #editBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7042b1bd-35e1-4ae5-96b5-7e93350eb166</webElementGuid>
+      <webElementGuid>eea8d6d3-05d5-4d66-9bec-72a241dafb53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>editBtn</value>
-      <webElementGuid>51ad43c1-7731-4b17-afb0-2624bce082bd</webElementGuid>
+      <webElementGuid>9ca2495d-c46f-4f2c-8dd5-bbffc690f5bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>ngbtooltip</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>ba13cdef-45dc-44ae-8813-267912f9a061</webElementGuid>
+      <webElementGuid>77f477df-9ceb-44a1-85bc-c19e3cf0e5f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-outline-primary</value>
-      <webElementGuid>446d5592-072b-4714-85b3-8fed8d9b2f3a</webElementGuid>
+      <webElementGuid>0b290c67-12de-4075-a707-3b1a5d8f8e72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>ngb-tooltip-76</value>
-      <webElementGuid>26c483c0-50b5-4641-9c3e-b11c12fa4cc5</webElementGuid>
+      <webElementGuid>89e95814-cf68-4720-9215-d02f1a0f1dc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTables_Table_1&quot;)/tbody[1]/tr[6]/td[@class=&quot;vertical-middle text-right&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center column-gap-2&quot;]/button[@id=&quot;editBtn&quot;]</value>
-      <webElementGuid>351992dc-93b6-4577-8281-df15726ddc9b</webElementGuid>
+      <webElementGuid>f8ad2bf8-f08a-4962-875c-620650f02d81</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@id='editBtn'])[6]</value>
-      <webElementGuid>1d7a971a-c37e-42b9-8513-b4a688febbea</webElementGuid>
+      <webElementGuid>4c56cd30-c87f-4663-bb96-7a05c9ecf4f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTables_Table_1']/tbody/tr[6]/td[4]/div/button[2]</value>
-      <webElementGuid>9c51714c-5bd4-44f0-9dad-0ea2503412b7</webElementGuid>
+      <webElementGuid>a9852312-ed9f-43ef-bd88-4b840d594f82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='user_auto@gmail.com'])[1]/following::button[2]</value>
-      <webElementGuid>1756ba8c-8259-49e4-90a8-cf9382341e4f</webElementGuid>
+      <webElementGuid>c12a88e5-0171-466e-8bcd-d8b37ccb6bf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='user auto'])[1]/following::button[2]</value>
-      <webElementGuid>7f04e0b8-26e5-4e3b-97d0-77e3e51d5dcc</webElementGuid>
+      <webElementGuid>71c596cd-f629-4600-8c4a-45c37699d28a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
-      <webElementGuid>25d54ec6-5edf-44ba-a26e-23be95705f5f</webElementGuid>
+      <webElementGuid>7e4d4e40-1c87-4229-84d1-bf9bba870e11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='namaku testing'])[1]/preceding::button[2]</value>
-      <webElementGuid>8c78d83c-a53a-43c5-887e-cb487517dd20</webElementGuid>
+      <webElementGuid>f6029212-bd49-44b3-8331-af3d9f97e6a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[6]/td[4]/div/button[2]</value>
-      <webElementGuid>cca62159-94e2-4fca-98ae-db46a794f135</webElementGuid>
+      <webElementGuid>1a06bcf2-bb45-44e9-9c26-9f72aaccb261</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'editBtn']</value>
-      <webElementGuid>02504a58-da6e-4289-8d82-229e6db580b1</webElementGuid>
+      <webElementGuid>4424d72d-22f8-4e35-9557-5f99f113a267</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

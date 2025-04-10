@@ -19,4 +19,29 @@
       <initValue>'devGanteng'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'berita abc'</initValue>
+      <name>judul_kategori</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'berita news'</initValue>
+      <name>judul_kategori_edit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user 4'</initValue>
+      <name>nama_user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user 5'</initValue>
+      <name>nama_user_edit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user+3@gmail.com'</initValue>
+      <name>user_email</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

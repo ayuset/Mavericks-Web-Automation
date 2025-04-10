@@ -6,12 +6,12 @@
    <elementGuidId>3e896092-5111-452d-ad1c-f17db324701c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#topnav-kategori</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='topnav-kategori']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#topnav-kategori</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>91a6458f-cb7e-4ff8-bf57-94edac20a56b</webElementGuid>
+      <webElementGuid>08bb29cf-9eec-416d-bf7c-e748d4fcfe92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>topnav-kategori</value>
-      <webElementGuid>afefc9ee-60bb-465d-85f5-1219dd61a1d6</webElementGuid>
+      <webElementGuid>748fd4e5-0343-4a07-ba61-6fddd2b82cba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4a56d924-8052-41c9-b604-0942201d0e63</webElementGuid>
+      <webElementGuid>fcb830a1-599d-441f-b100-ceac8433e8a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>896de22d-27db-4267-a358-aa0ed5fa5086</webElementGuid>
+      <webElementGuid>6dab98a9-d75d-41a1-bfb5-a8c76273db25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/kategori</value>
-      <webElementGuid>fba11dff-27c2-4f07-a07e-99ca110c8f5b</webElementGuid>
+      <webElementGuid>6f467bc4-37b6-4c3e-b794-231c99245433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kategori</value>
-      <webElementGuid>b6834bf6-eb0a-4134-a236-76eedc9f8b40</webElementGuid>
+      <webElementGuid>13d51dbf-6ee7-4914-952b-a0e131e16fd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;topnav-kategori&quot;)</value>
-      <webElementGuid>fa44902b-676d-43af-b966-fc193f826895</webElementGuid>
+      <webElementGuid>cb7810b1-2eaa-496b-9aab-57780699d4db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='topnav-kategori']</value>
-      <webElementGuid>c9fad2f0-013d-4a54-8da9-0dbabd5b48e9</webElementGuid>
+      <webElementGuid>8de011d8-d712-4a60-af2f-89dde204fb4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='offcanvasScrolling']/div/a</value>
-      <webElementGuid>72582288-eee7-4764-b5ef-a42b7a527aaa</webElementGuid>
+      <webElementGuid>406775e8-ac8b-44a5-8bc7-3d2fc3a97ebf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[1]</value>
-      <webElementGuid>7e058ac9-b980-40b7-9d1c-ace3f32b22d4</webElementGuid>
+      <webElementGuid>318fd115-2443-4317-8411-64973dcedcf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tag'])[1]/following::a[2]</value>
-      <webElementGuid>67a868bf-4dc7-4d33-aa9d-95ce60cff410</webElementGuid>
+      <webElementGuid>2cdeb481-6952-494f-af7a-c45f963b666c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Gambar'])[1]/preceding::a[1]</value>
-      <webElementGuid>657f935b-621d-44d0-a99e-8d8a7441c95f</webElementGuid>
+      <webElementGuid>5967e172-25d5-40c9-8dd4-024e94d890fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/kategori')])[2]</value>
-      <webElementGuid>692cc338-3661-477b-85e1-f2ef94e47a32</webElementGuid>
+      <webElementGuid>cec38fe9-f1f4-46ed-8f1e-58b97af07ea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div/a</value>
-      <webElementGuid>244448bc-e0aa-42e7-a525-ecf88bf52d20</webElementGuid>
+      <webElementGuid>286f97c5-513f-432d-b438-9016ac7118f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'topnav-kategori' and @href = '/kategori' and (text() = 'Kategori' or . = 'Kategori')]</value>
-      <webElementGuid>cab14e4e-754a-4d7f-b7cd-9d84e8a62ee0</webElementGuid>
+      <webElementGuid>67c28937-184d-4959-8f95-5f7067f0ae2b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

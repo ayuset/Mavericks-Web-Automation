@@ -6,12 +6,12 @@
    <elementGuidId>4ab9a224-634c-4b03-bed2-4fd6d8ba5f31</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary.text-center</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[2]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.text-center</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60b689b8-4b7f-43e4-8b81-2abea7d4893b</webElementGuid>
+      <webElementGuid>9d76fe81-a455-4209-b57c-0795ee0d3ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary text-center</value>
-      <webElementGuid>1cb9305d-e4de-438c-b573-ab66b8096131</webElementGuid>
+      <webElementGuid>e1cac513-31aa-43e9-85a5-e23f3bb133ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>3f4e8e9f-e796-48db-8e11-ed8828d17b5d</webElementGuid>
+      <webElementGuid>530a8aad-c208-456a-8967-eaf237358966</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-form-kategori[1]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-primary text-center&quot;]</value>
-      <webElementGuid>6293f678-fcab-442f-9961-07657652a467</webElementGuid>
+      <webElementGuid>f31b0ac4-f0a9-4b29-95bf-563945bd1695</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[2]/following::button[1]</value>
-      <webElementGuid>138434b2-a936-4aba-a318-9088b092e9a1</webElementGuid>
+      <webElementGuid>c57cc06b-8b7a-44ca-8a98-9a98b9d82910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif kategori'])[1]/following::button[1]</value>
-      <webElementGuid>38d2b107-4ebf-4390-bcd6-dee9d30ce494</webElementGuid>
+      <webElementGuid>3c894d43-3901-4d08-a6d7-4ce2a6673c3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/div/div[2]/button</value>
-      <webElementGuid>9d0804aa-8d1c-4288-a5ed-5c6df9c6e6e2</webElementGuid>
+      <webElementGuid>0642fd53-2678-43c9-b04d-a2295f2a66ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>4c16aa13-a55c-4941-a854-66eae16e4419</webElementGuid>
+      <webElementGuid>56ea4dcd-c2d1-4357-88d1-62d74a10c76e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

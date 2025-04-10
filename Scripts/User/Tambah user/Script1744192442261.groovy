@@ -17,20 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
-
+//WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.click(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/a_User'))
 
 WebUI.click(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/button_Tambah User'))
 
-WebUI.setText(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/input_Nama_name'), 'user automation')
+WebUI.setText(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/input_Nama_name'), GlobalVariable.nama_user)
 
-WebUI.setText(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/input_Email_email'), 'user_automation@gmail.com')
+WebUI.setText(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/input_Email_email'), GlobalVariable.user_email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/input_Password_password'), 
     '/5S6MFFLcE4n7YDMTSRBjA==')
 
 WebUI.click(findTestObject('Object Repository/User/Tambah user/Page_CMS  Maverick/button_Simpan'))
-
-
 

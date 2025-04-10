@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ini-kategori4_deleteBtn</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>3841f1f0-75b3-402c-bf30-94b9abbf9f1f</elementGuidId>
+   <elementGuidId>d917a642-ecd4-4a6a-b521-087612c1281a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#deleteBtn</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='deleteBtn']</value>
+         <key>CSS</key>
+         <value>button.btn.btn-link.position-absolute</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,110 +23,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>146bbb5d-dbc9-4010-b31b-f58d7579a70e</webElementGuid>
+      <webElementGuid>276459ab-52db-461e-a792-82ded333e4c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>deleteBtn</value>
-      <webElementGuid>e0b10853-f304-49e9-97a8-660f2f923773</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ngbtooltip</name>
-      <type>Main</type>
-      <value>Hapus</value>
-      <webElementGuid>611dae78-60cd-4471-aa61-dd2e22c6844d</webElementGuid>
+      <value>button</value>
+      <webElementGuid>d4a5616b-2e5e-444c-9c85-3ae221ac578d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-sm btn-outline-primary</value>
-      <webElementGuid>89ab23e5-dffc-48a2-bbfe-91b8234895c5</webElementGuid>
+      <value>btn btn-link position-absolute</value>
+      <webElementGuid>7a9e4115-1eed-4eae-918c-fd92c44eb116</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
+      <name>text</name>
       <type>Main</type>
-      <value>ngb-tooltip-62</value>
-      <webElementGuid>72ed0f01-b7ea-4430-a641-6c32fdfd1508</webElementGuid>
+      <value> ✖ </value>
+      <webElementGuid>b9244635-398c-4b66-b6b4-712f6261bb71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;DataTables_Table_1&quot;)/tbody[1]/tr[1]/td[5]/div[@class=&quot;d-flex justify-content-center align-items-center column-gap-2&quot;]/button[@id=&quot;deleteBtn&quot;]</value>
-      <webElementGuid>3255adb8-3603-438a-876d-897a8942494a</webElementGuid>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-list-kategori[1]/div[@class=&quot;kategori-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/div[@class=&quot;d-flex column-gap-2&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/button[@class=&quot;btn btn-link position-absolute&quot;]</value>
+      <webElementGuid>abf5c16a-d615-403f-b4f4-11f36688e057</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='deleteBtn']</value>
-      <webElementGuid>6327be62-a90e-4ece-a031-8568eeb4bced</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>e769e516-1398-4109-9428-90f554a307f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='DataTables_Table_1']/tbody/tr/td[5]/div/button[3]</value>
-      <webElementGuid>0da0d341-1e91-4c02-882c-c5f265036069</webElementGuid>
+      <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-list-kategori/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>fa8a2e67-8410-4e20-944b-23ac2fff6a57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ini-kategori4'])[1]/following::button[3]</value>
-      <webElementGuid>f5153c24-b9c3-4b81-91fe-e045fb22c5ec</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Kategori'])[1]/following::button[1]</value>
+      <webElementGuid>faee1f21-f01c-42c4-a50d-7bcbfc0a932f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini kategori4'])[1]/following::button[3]</value>
-      <webElementGuid>4ce6e783-c236-417f-9d80-47f859e313fe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/following::button[1]</value>
+      <webElementGuid>f5eeda91-bf73-4087-b2c0-fc914c5d3c64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::button[1]</value>
-      <webElementGuid>75a74645-d6ac-46a2-bd3a-070349ffae84</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Kategori'])[1]/preceding::button[1]</value>
+      <webElementGuid>81524701-b2c5-4191-a941-f3960f94536c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini kategori3'])[1]/preceding::button[1]</value>
-      <webElementGuid>18b4e625-7478-43ea-9eee-9bc4f42ab39b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='✖']/parent::*</value>
+      <webElementGuid>620601d2-cf2c-45a1-9197-145e99d3c074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[3]</value>
-      <webElementGuid>1a9658c3-e85b-4b8f-8c38-7a1513007c1d</webElementGuid>
+      <value>//div/div/div/div/div/button</value>
+      <webElementGuid>181e0eca-f4a9-4c9d-a295-5dcc598f3e84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'deleteBtn']</value>
-      <webElementGuid>4ded149a-db20-4a78-8053-a56a2ab73eb4</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' ✖ ' or . = ' ✖ ')]</value>
+      <webElementGuid>7601dd67-bd99-41cf-b295-57d4a0ff36a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Daftar Kategori_form-control form-con_f6b6b1</name>
+   <name>input_Daftar Kategori_form-control form-con_2715ab</name>
    <tag></tag>
-   <elementGuidId>228a93b7-c4a8-4031-b628-d3d8a18166cf</elementGuidId>
+   <elementGuidId>c5713409-ca67-4cd6-b896-0594a7bfe6e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.form-control.form-control-sm.d-inline-block.mr-2.field-responsive.field-responsive-ipad.pr-4.ng-untouched.ng-pristine.ng-valid</value>
+         <value>input.form-control.form-control-sm.d-inline-block.mr-2.field-responsive.field-responsive-ipad.pr-4.ng-untouched.ng-valid.ng-dirty</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4d0dbde1-5ec4-4ebd-aa1e-7150ec94e7ba</webElementGuid>
+      <webElementGuid>ad4e293a-5fd1-49a9-a4a9-d64cabf13120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>844b6416-6d81-4fb1-a679-7c5bda8207b5</webElementGuid>
+      <webElementGuid>38e5b8d5-d0d0-44c5-be96-22ec13b14612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari kategori...</value>
-      <webElementGuid>55b61350-3dbc-4172-8b07-177260f50f79</webElementGuid>
+      <webElementGuid>8711a5bd-d520-4b83-958d-774b62cb5e80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>appendto</name>
       <type>Main</type>
       <value>body</value>
-      <webElementGuid>7c924648-25c7-46bf-9661-ceef7dcc290e</webElementGuid>
+      <webElementGuid>d7b3b6a0-654f-4fa9-88cd-79fa687eb75d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,23 +55,23 @@
       <name>st-search</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>4808a7f6-2848-443f-a744-e7b4d330bf6e</webElementGuid>
+      <webElementGuid>4d2fc8a4-f507-4638-92b9-19deb85fa56e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>1f363c6c-cc81-47f9-8b6f-1444a38ce080</webElementGuid>
+      <value>form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>53580d0f-e0b7-4f24-a7c4-ed67643eaf95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-list-kategori[1]/div[@class=&quot;kategori-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/div[@class=&quot;d-flex column-gap-2&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/input[@class=&quot;form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>0945e70d-5819-464e-9b1d-a16a615d50c5</webElementGuid>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-list-kategori[1]/div[@class=&quot;kategori-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/div[@class=&quot;d-flex column-gap-2&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/input[@class=&quot;form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>29657651-07eb-4599-80fc-a5dcb4816447</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>8b0972d3-5277-4381-a1d1-7e8d35b6fd88</webElementGuid>
+      <webElementGuid>5f8d45e7-91b1-4161-ac28-dcfd0a8575ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-list-kategori/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>16a2416c-86cd-47f3-930a-d6486c2b8a3f</webElementGuid>
+      <webElementGuid>7def5034-10d2-4969-971c-5fda4937ddb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>6f6298bd-9cd9-4b93-b0ec-8abf17d6f51c</webElementGuid>
+      <webElementGuid>42b1a78a-8ad4-4c56-90e9-aa58bdeec0d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Cari kategori...']</value>
-      <webElementGuid>bf102ee9-68ec-403f-aa52-146931cb20d5</webElementGuid>
+      <webElementGuid>c4b81b67-5e4e-4add-a3c9-248f7ad48805</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

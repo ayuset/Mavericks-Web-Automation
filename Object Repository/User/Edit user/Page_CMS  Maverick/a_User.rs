@@ -6,12 +6,12 @@
    <elementGuidId>e656e0fb-3d41-4361-bd8f-e7b8c350b365</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#topnav-user</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='topnav-user']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#topnav-user</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>229d6256-5a69-42a9-adc1-e46c9bf13483</webElementGuid>
+      <webElementGuid>abe6050c-e6f2-49e1-aa51-bb2577a7a5c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>topnav-user</value>
-      <webElementGuid>083d7def-3cf0-4465-a890-a3695768b95d</webElementGuid>
+      <webElementGuid>5a307e6d-effa-4d9c-b701-f9e9e816b45b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>903c18f6-5856-431f-ab20-a139ecfd170b</webElementGuid>
+      <webElementGuid>74b86256-82e0-4132-b56b-9c72b158a8b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>e8ce1540-7081-4acd-bbe4-d819f2ef0a81</webElementGuid>
+      <webElementGuid>c51d817f-88e8-4cc8-953b-590f640a5b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/user</value>
-      <webElementGuid>251a06d2-c2aa-467a-93e8-711f32779561</webElementGuid>
+      <webElementGuid>fdd092d5-9cab-4159-a661-2290e00b323a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>User</value>
-      <webElementGuid>40654610-fcd0-4a65-b637-fa686bdf448f</webElementGuid>
+      <webElementGuid>068a48c4-e2f4-40b0-94c2-c5b3806cb051</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;topnav-user&quot;)</value>
-      <webElementGuid>485d4626-f8a2-4a3e-9b12-ff1c4673f5d4</webElementGuid>
+      <webElementGuid>e03cf2c2-588c-4dbb-8efa-7dfb97df11da</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='topnav-user']</value>
-      <webElementGuid>3b73da00-ea93-4dd7-ac0c-8e187c3bbc5a</webElementGuid>
+      <webElementGuid>bdc30078-84e0-4f0f-b753-b9181d8ff69a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='offcanvasScrolling']/div/a[4]</value>
-      <webElementGuid>e3b4f8ac-18a3-476a-902b-9741c6c1cbb2</webElementGuid>
+      <webElementGuid>9d444ac8-ac61-42da-aae7-0a5736c96c47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/following::a[1]</value>
-      <webElementGuid>26826ccc-5809-48d9-a3f1-f5ff72c3ac21</webElementGuid>
+      <webElementGuid>54b73614-283d-4c73-87b8-39ff6f0232c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Gambar'])[1]/following::a[2]</value>
-      <webElementGuid>88f72735-a1f1-4099-9de0-f64cdfef92e7</webElementGuid>
+      <webElementGuid>805ce88f-a1d6-4aa1-8306-1cc871e57b2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Berita'])[1]/preceding::a[1]</value>
-      <webElementGuid>8670cf10-bec1-4554-ab26-02c22a905f06</webElementGuid>
+      <webElementGuid>790eaabf-7d34-429c-a985-62677aefb473</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/user')])[2]</value>
-      <webElementGuid>81d97d67-925c-4e18-8464-98999e70806b</webElementGuid>
+      <webElementGuid>6a5e5936-6e76-4284-ac14-7e0968bc76ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]</value>
-      <webElementGuid>4006721d-9075-44ca-ad7a-3cc5bb1e7a36</webElementGuid>
+      <webElementGuid>58116d77-bba3-4c65-a278-9b5df5f672b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'topnav-user' and @href = '/user' and (text() = 'User' or . = 'User')]</value>
-      <webElementGuid>db77b460-7f06-4ee9-9819-7e531be03d96</webElementGuid>
+      <webElementGuid>a662d956-7540-464c-b03f-a49e56b9b776</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

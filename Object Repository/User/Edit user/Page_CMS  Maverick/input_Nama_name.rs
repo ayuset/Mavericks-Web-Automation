@@ -6,12 +6,12 @@
    <elementGuidId>3447b5a3-df1f-4cfa-9372-c20f74b24a7c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;name&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;name&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e8d842c2-4681-443d-a48f-1809aacfae49</webElementGuid>
+      <webElementGuid>8613be60-9bb0-4ef1-a26a-e69dd35ca854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3e0db0d2-3e64-410c-9c18-ca14857efc7e</webElementGuid>
+      <webElementGuid>2fdf5a76-d8f3-40a3-a66d-b3c134f133c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>b9d90464-8fd2-497b-870b-89ab17ad4b7c</webElementGuid>
+      <webElementGuid>df9842dc-51d8-4cdc-9193-02a9e0d9b8ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nama Pengguna</value>
-      <webElementGuid>c32c1f0e-10d2-4801-a20c-aa9dc63dfc37</webElementGuid>
+      <webElementGuid>a4694197-d17e-42eb-9054-a6cd50f7025d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>e59ad953-d774-4915-b5e1-d509998cc48c</webElementGuid>
+      <webElementGuid>8f4ad128-56f9-4395-b6c3-bfb504c46155</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-form-user[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row align-items-center mb-3&quot;]/div[@class=&quot;col-md-9&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>8d97b8ba-6dad-4c23-9193-5a3acfdfac4e</webElementGuid>
+      <webElementGuid>b6854cc9-b6f8-4197-9722-a6a40f762100</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='name']</value>
-      <webElementGuid>12a26628-bb4a-47e2-9ac2-6ca4c4776573</webElementGuid>
+      <webElementGuid>b06fb075-0d7e-4383-8616-0c6286a32983</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>430b8065-2429-4789-9e3b-6b0074e66940</webElementGuid>
+      <webElementGuid>dda4db64-e3b9-4d0c-8f7e-9493fb1d6d1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'name' and @placeholder = 'Nama Pengguna']</value>
-      <webElementGuid>8eea3d26-a3de-460c-aa2b-344c85b3b6e8</webElementGuid>
+      <webElementGuid>dabdbd74-3ca5-4b2c-8c12-36195126fd94</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
