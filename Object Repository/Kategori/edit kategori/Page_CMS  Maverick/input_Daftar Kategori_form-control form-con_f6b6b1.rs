@@ -6,12 +6,12 @@
    <elementGuidId>cb927cd3-3d10-4f1e-95fb-49685bbebeaa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.form-control.form-control-sm.d-inline-block.mr-2.field-responsive.field-responsive-ipad.pr-4.ng-untouched.ng-pristine.ng-valid</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.form-control-sm.d-inline-block.mr-2.field-responsive.field-responsive-ipad.pr-4.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

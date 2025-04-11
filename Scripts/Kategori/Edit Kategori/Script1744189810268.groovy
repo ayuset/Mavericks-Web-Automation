@@ -18,27 +18,27 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
-WebUI.click(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/a_Kategori'))
+WebUI.click(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/a_Kategori'))
 
-WebUI.setText(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/input_Daftar Kategori_form-control form-con_f6b6b1'), 
+WebUI.setText(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/input_Daftar Kategori_form-control form-con_f6b6b1'), 
     GlobalVariable.judul_kategori)
 
-WebUI.click(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/button_ini-kategori4_editBtn'))
+WebUI.click(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/button_ini-kategori4_editBtn'))
 
-WebUI.setText(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/input_Judul Kategori_title'), GlobalVariable.judul_kategori_edit)
+WebUI.setText(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/input_Judul Kategori_title'), GlobalVariable.judul_kategori_edit)
 
-WebUI.click(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/button_Simpan'))
 
 WebUI.verifyTextPresent('Kategori berhasil diubah', false)
 
-WebUI.click(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/button_'))
+WebUI.click(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/button_'))
 
-WebUI.setText(findTestObject('Object Repository/edit kategori/Page_CMS  Maverick/input_Daftar Kategori_form-control form-con_f6b6b1'), 
+WebUI.setText(findTestObject('Object Repository/Kategori/edit kategori/Page_CMS  Maverick/input_Daftar Kategori_form-control form-con_f6b6b1'), 
     GlobalVariable.judul_kategori_edit)
 
-WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_ini-kategori_deleteBtn'))
+WebUI.click(findTestObject('Object Repository/Kategori/hapus kategori/Page_CMS  Maverick/button_ini-kategori_deleteBtn'))
 
-WebUI.waitForElementClickable(findTestObject('hapus/Page_CMS  Maverick/button_Ya'), 10)
+WebUI.waitForElementClickable(findTestObject('Kategori/hapus kategori/Page_CMS  Maverick/button_Ya'), 10)
 
-WebUI.click(findTestObject('Object Repository/hapus/Page_CMS  Maverick/button_Ya'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Kategori/hapus kategori/Page_CMS  Maverick/button_Ya'), FailureHandling.STOP_ON_FAILURE)
 

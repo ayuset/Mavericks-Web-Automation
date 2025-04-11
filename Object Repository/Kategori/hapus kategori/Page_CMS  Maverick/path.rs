@@ -6,12 +6,11 @@
    <elementGuidId>b8489f38-a15f-4dd7-88c5-7c01c5d4383d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#deleteBtn > svg > path</value>
+         <key>XPATH</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>#deleteBtn > svg > path</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,18 +3,24 @@
    <description></description>
    <name>input__form-custom ng-untouched ng-valid ng-dirty_1</name>
    <tag></tag>
-   <elementGuidId>5a15ad36-fdf3-486a-a68f-43e56672eedb</elementGuidId>
+   <elementGuidId>e9320579-26d1-49b8-84e7-9b0e4ebb9053</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input.form-custom.ng-untouched.ng-valid.ng-dirty</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@type='password']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-custom.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Password.....&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5a7ca5e3-f502-45c3-8ea2-f9353bc398cf</webElementGuid>
+      <webElementGuid>4fd701a5-3d0c-44ff-832d-4bb1b6e585b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password.....</value>
-      <webElementGuid>eaffe286-5c00-4caf-8a31-16a1aa34cda8</webElementGuid>
+      <webElementGuid>077d322e-4f7a-483a-ac99-d05ce93892bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-custom ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>72b232d3-7f27-4ca7-8195-bb3edd1acd84</webElementGuid>
+      <webElementGuid>56658394-5296-427e-b283-5e54e349aba5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e267f4b4-bc35-4ac9-957c-bba765b08e1d</webElementGuid>
+      <webElementGuid>0483e29e-047b-41b9-bc51-a9d71b2a4892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;row main-pages&quot;]/div[@class=&quot;col-12 d-flex justify-content-center align-items-center&quot;]/section[@class=&quot;form-section&quot;]/div[@class=&quot;content mt-5 mb-5&quot;]/div[@class=&quot;row shadow-lg&quot;]/div[@class=&quot;col-12 mb-3 px-4&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;position-relative d-flex align-items-center w-100&quot;]/input[@class=&quot;form-custom ng-untouched ng-valid ng-dirty&quot;]</value>
-      <webElementGuid>1f4745de-981f-41be-a83c-017af7894f25</webElementGuid>
+      <webElementGuid>3de9488e-54a4-4e54-bf09-a3a113bfc2ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='password']</value>
-      <webElementGuid>d94b16af-0fb5-4509-8510-9f3120844b85</webElementGuid>
+      <webElementGuid>33094e10-82f0-4402-88bf-d6ed8bd0bc44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>a657370d-cb16-4549-9b3f-8186473704aa</webElementGuid>
+      <webElementGuid>d62cedf0-9977-4a79-a66b-f7a7de25839c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Password.....' and @type = 'password']</value>
-      <webElementGuid>1bae382d-206b-49bb-90d7-538115a1c719</webElementGuid>
+      <webElementGuid>184eee51-8962-4832-b888-3a2038d5570e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

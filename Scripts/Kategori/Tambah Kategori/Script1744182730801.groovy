@@ -18,17 +18,17 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
-WebUI.click(findTestObject('Object Repository/tambah kategori/span_Kategori'))
+WebUI.click(findTestObject('Object Repository/Kategori/tambah kategori/span_Kategori'))
 
-WebUI.click(findTestObject('Object Repository/tambah kategori/button_Tambah Kategori'))
+WebUI.click(findTestObject('Object Repository/Kategori/tambah kategori/button_Tambah Kategori'))
 
-WebUI.setText(findTestObject('Object Repository/tambah kategori/input_Judul Kategori_title'), GlobalVariable.judul_kategori)
+WebUI.setText(findTestObject('Object Repository/Kategori/tambah kategori/input_Judul Kategori_title'), GlobalVariable.judul_kategori)
 
-WebUI.click(findTestObject('Object Repository/tambah kategori/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/Kategori/tambah kategori/button_Simpan'))
 
 //WebUI.verifyTextPresent('Kategori berhasil ditambahkan', false)
 
-//WebUI.click(findTestObject('Object Repository/tambah kategori/div_BerhasilKategori berhasil ditambahkanOK_408b52'))
+//WebUI.click(findTestObject('Object Repository/Kategori/tambah kategori/div_BerhasilKategori berhasil ditambahkanOK_408b52'))
 
-//WebUI.verifyElementText(findTestObject('Object Repository/tambah kategori/td_1'), '1')
+//WebUI.verifyElementText(findTestObject('Object Repository/Kategori/tambah kategori/td_1'), '1')
 

@@ -6,12 +6,12 @@
    <elementGuidId>000895cd-8333-4282-b63a-f06ed5d2b642</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.form-custom.ng-untouched.ng-valid.ng-dirty</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='email']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-custom.ng-untouched.ng-valid.ng-dirty</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

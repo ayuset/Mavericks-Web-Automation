@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Kategori</name>
+   <name>button_ini-kategori3_editBtn</name>
    <tag></tag>
-   <elementGuidId>efb03af2-9fb8-475f-b1e9-56226e44db67</elementGuidId>
+   <elementGuidId>80db7658-4cc6-4087-8fab-c7ed81ee5199</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#topnav-kategori</value>
+         <key>XPATH</key>
+         <value>//button[@id='editBtn']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='topnav-kategori']</value>
+         <key>CSS</key>
+         <value>#editBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,119 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>ceae82b7-09c0-4467-ae8b-44b46bdd4d60</webElementGuid>
+      <value>button</value>
+      <webElementGuid>5a9086c2-0e70-4178-bc61-8a75681c8cee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>topnav-kategori</value>
-      <webElementGuid>54bebbec-6da2-432b-ba1c-e6e5200aecdc</webElementGuid>
+      <value>editBtn</value>
+      <webElementGuid>8968c2f2-ff04-437b-b7c2-6040f85d4a51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>ngbtooltip</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>46df0b87-1d2a-4052-b7c9-c69c0c68246f</webElementGuid>
+      <value>Edit</value>
+      <webElementGuid>80988716-280c-4117-9093-0d05b5902716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>5de35598-15c7-4d1b-a776-0db8378fe8bf</webElementGuid>
+      <value>btn btn-sm btn-outline-primary</value>
+      <webElementGuid>762b857f-fc64-4219-9e69-99a63bc44629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>aria-describedby</name>
       <type>Main</type>
-      <value>/kategori</value>
-      <webElementGuid>184d5670-6650-4a21-8ae7-ca96c53fead5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Kategori</value>
-      <webElementGuid>b2841d3f-de61-4a5f-bfbb-df7d971294ca</webElementGuid>
+      <value>ngb-tooltip-181</value>
+      <webElementGuid>6b8c5944-734f-4b31-a99d-d2ddfc11fa61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;topnav-kategori&quot;)</value>
-      <webElementGuid>96841fa5-12c2-40de-93a5-4a7676e4d644</webElementGuid>
+      <value>id(&quot;editBtn&quot;)</value>
+      <webElementGuid>176b30e0-055a-437f-a04d-9c90ced5b7be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='topnav-kategori']</value>
-      <webElementGuid>942c494c-29a3-4a71-bdaf-949f1c1fa9a1</webElementGuid>
+      <value>//button[@id='editBtn']</value>
+      <webElementGuid>36f8f26b-39b8-4e52-a5c8-147da98cbbc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='offcanvasScrolling']/div/a</value>
-      <webElementGuid>963e009a-a9f3-403d-aab1-920094d133ec</webElementGuid>
+      <value>//table[@id='DataTables_Table_1']/tbody/tr/td[5]/div/button[2]</value>
+      <webElementGuid>3fd5f3b8-a63e-41f6-8dd0-ca2c42424e98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[1]</value>
-      <webElementGuid>14611884-fb2e-4d2d-ad8f-58aa408c71e3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ini-kategori3'])[1]/following::button[2]</value>
+      <webElementGuid>0cca0794-9c51-4155-bfc5-18dbfe657063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tag'])[1]/following::a[2]</value>
-      <webElementGuid>94546aaf-cf92-4945-a959-8db142a453e6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini kategori3'])[1]/following::button[2]</value>
+      <webElementGuid>810369c4-5162-49b7-8b81-f2c110251d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Gambar'])[1]/preceding::a[1]</value>
-      <webElementGuid>7db34151-1fb0-430a-842c-40da4b5776a9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>43ee0fa0-34fe-4071-b895-840a71c735bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/kategori')])[2]</value>
-      <webElementGuid>9a0f3e7f-2649-419d-bc20-699eb744c518</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No matching records found'])[1]/preceding::button[2]</value>
+      <webElementGuid>03dbfcf9-a615-455f-8d5a-5c84c9dbca15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/a</value>
-      <webElementGuid>d7d3802c-8ae8-4785-98dd-fb099995c76c</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>34555646-216d-4def-a7c7-fae838f15596</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'topnav-kategori' and @href = '/kategori' and (text() = 'Kategori' or . = 'Kategori')]</value>
-      <webElementGuid>14169a03-0c0d-40da-a3d0-dcc3fde9f91b</webElementGuid>
+      <value>//button[@id = 'editBtn']</value>
+      <webElementGuid>f93536fc-3e4a-4afe-aac1-6dfdeb23149e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
