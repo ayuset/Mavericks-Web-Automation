@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Gambar</name>
+   <name>button_Google_editBtn</name>
    <tag></tag>
-   <elementGuidId>5f3cda79-8d82-45e8-80f8-79a7debdd5f4</elementGuidId>
+   <elementGuidId>033439a0-d238-463b-9008-0741545730aa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='topnav-gambar']</value>
+         <key>CSS</key>
+         <value>#overlay-action-35 > div:nth-of-type(2) > #editBtn</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#topnav-gambar</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;editBtn&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Master Gambar&quot;i]</value>
+         <value>#overlay-action-35 #editBtn</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>dc17f6c5-83f8-4000-9586-4981154a65d2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>9e6eb58f-0086-4ad6-b769-460cf9d8817f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>topnav-gambar</value>
-      <webElementGuid>86625d26-7937-4150-b987-958dd9f24780</webElementGuid>
+      <value>editBtn</value>
+      <webElementGuid>99300499-3972-44ee-af1e-4e635b792c9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>ngbtooltip</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bd5402e0-9918-4d91-91b8-d3a9b37ac51d</webElementGuid>
+      <value>Edit</value>
+      <webElementGuid>92f06b15-3ab4-4ab1-b0f5-c08dcd310c9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>695dca92-769e-4d75-83fc-3a4d95ae7dfd</webElementGuid>
+      <value>btn btn-sm btn-outline-light</value>
+      <webElementGuid>1e2bb865-aca0-4dce-a95b-8752d626f35f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>aria-describedby</name>
       <type>Main</type>
-      <value>/gambar</value>
-      <webElementGuid>ba1f34e9-ec09-4376-8f02-d07a2633444a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Master Gambar</value>
-      <webElementGuid>9f0e31da-4c68-4578-a36a-90192d7424d4</webElementGuid>
+      <value>ngb-tooltip-66</value>
+      <webElementGuid>b93e4417-417c-476f-a920-c295be184265</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;topnav-gambar&quot;)</value>
-      <webElementGuid>ad88eded-40bd-4db9-92cb-bb0e14200a9b</webElementGuid>
+      <value>id(&quot;overlay-action-35&quot;)/div[2]/button[@id=&quot;editBtn&quot;]</value>
+      <webElementGuid>e66f3ff7-9fe8-4099-9bf3-d5a555aa9459</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='topnav-gambar']</value>
-      <webElementGuid>a93f2042-68a2-493d-a4be-221d0aec6a02</webElementGuid>
+      <value>(//button[@id='editBtn'])[4]</value>
+      <webElementGuid>dcb2d510-a0ed-458e-a196-e08c2576496d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='offcanvasScrolling']/div/a[2]</value>
-      <webElementGuid>d7e8fa88-26ff-4418-beb8-281ef19d3d67</webElementGuid>
+      <value>//div[@id='overlay-action-35']/div[2]/button</value>
+      <webElementGuid>117b9299-2676-4ef4-9d3a-04d728b44da5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/following::a[1]</value>
-      <webElementGuid>476c3748-e738-4c89-9695-d519eba17580</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[4]/following::button[1]</value>
+      <webElementGuid>541de52f-9ffc-4ca3-b104-622cf21a19b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[2]</value>
-      <webElementGuid>f16cf248-79f1-4926-8b3c-36424839bf86</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ini gambar'])[4]/following::button[1]</value>
+      <webElementGuid>d1ad5985-23a7-4d72-82b3-2d35fc80d43a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[1]</value>
-      <webElementGuid>652260e6-c921-42aa-9b7c-39576cf45b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>b7368f0d-f573-4fa1-8c22-4bf62c465aa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/gambar')]</value>
-      <webElementGuid>bd937abf-33dc-4d35-b4cc-7e094b0c0b1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 20 of 29 entries'])[1]/preceding::button[2]</value>
+      <webElementGuid>049bc777-7d16-4dcb-8bd6-fc80678108fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a[2]</value>
-      <webElementGuid>61a9247f-5ed5-4613-a7db-e80434ba01a9</webElementGuid>
+      <value>//div[4]/div/label/div/div/div[2]/button</value>
+      <webElementGuid>caaf9305-9de3-43f9-8ea6-a5db775222dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'topnav-gambar' and @href = '/gambar' and (text() = 'Master Gambar' or . = 'Master Gambar')]</value>
-      <webElementGuid>3ed1df66-a365-49bc-9f48-94cb13aafc86</webElementGuid>
+      <value>//button[@id = 'editBtn']</value>
+      <webElementGuid>b5ae68b2-c543-425c-b3d2-ff58997c36d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

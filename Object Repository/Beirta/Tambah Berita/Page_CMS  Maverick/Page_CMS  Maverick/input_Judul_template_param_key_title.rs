@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Judul Gambar_title</name>
+   <name>input_Judul_template_param_key_title</name>
    <tag></tag>
-   <elementGuidId>4e17e597-311c-4b45-85a6-67fdbee5cb04</elementGuidId>
+   <elementGuidId>a72d4429-2729-4279-99f5-7da4404bb792</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='title']</value>
+         <value>(//input[@id='template_param_key_title'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#title</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Isikan Judul Gambar...&quot;i]</value>
+         <value>internal:role=textbox[name=&quot;Isikan Judul...&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed43a283-6c8e-43f5-a73a-ad4cd6969847</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>6f16e3f4-5d89-4629-bb57-c8ffe5ff1de0</webElementGuid>
+      <webElementGuid>1fc11811-e0a3-4680-a663-4981b166082d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,62 +37,78 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>102f16a8-4f0b-4cc3-872d-4aaa2289675b</webElementGuid>
+      <webElementGuid>3304006a-599f-44eb-996e-65cc6ce8b32f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>title</value>
-      <webElementGuid>b873ff8c-2472-4d97-af1f-40a61bdaee3a</webElementGuid>
+      <value>template_param_key_title</value>
+      <webElementGuid>8c8858f2-f9ce-43f3-a15a-7d1e0f8562b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>template_param_key_title</value>
+      <webElementGuid>9dfebd25-3831-4d40-a8ce-ce355d244977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Isikan Judul Gambar...</value>
-      <webElementGuid>c9d0c56a-7579-4c4f-8a4f-1994d5d84a1d</webElementGuid>
+      <value>Isikan Judul...</value>
+      <webElementGuid>ba8610a4-f625-4e6e-bb49-972195dfc464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>790baeef-539e-444a-b6c4-7c9ab49cfce4</webElementGuid>
+      <value>form-control rounded ng-dirty ng-valid ng-touched</value>
+      <webElementGuid>1fa184c4-a7ba-4fcd-9ee4-3b6c81864580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title&quot;)</value>
-      <webElementGuid>1d06c31d-3b11-4188-b270-4ceb1583465d</webElementGuid>
+      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white mt-3 border section-news&quot;]/div[@class=&quot;my-3&quot;]/input[@id=&quot;template_param_key_title&quot;]</value>
+      <webElementGuid>0a4b694f-61aa-42a7-bfaa-006fcd12087e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='title']</value>
-      <webElementGuid>4fd9fb59-44ee-4216-a848-df43aa0cc839</webElementGuid>
+      <value>(//input[@id='template_param_key_title'])[2]</value>
+      <webElementGuid>67e801bc-95b5-4871-a00b-3da802f12901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div/div[3]/div[4]/input</value>
+      <webElementGuid>5bc0c890-6338-4eb6-a370-11ea98802456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>b6304553-1619-41ad-bb14-c3de7a91e5ff</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>cab04cd3-fa76-491b-9efd-e61bb50ecb3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'title' and @type = 'text' and @name = 'title' and @placeholder = 'Isikan Judul Gambar...']</value>
-      <webElementGuid>dc744641-d302-4aa2-9413-49f6e048d363</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'template_param_key_title' and @id = 'template_param_key_title' and @placeholder = 'Isikan Judul...']</value>
+      <webElementGuid>79b4dee0-21f0-47c1-8785-145a279e4b12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

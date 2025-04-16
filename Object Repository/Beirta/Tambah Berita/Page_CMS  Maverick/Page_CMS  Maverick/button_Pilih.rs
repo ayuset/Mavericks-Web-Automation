@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Gambar</name>
+   <name>button_Pilih</name>
    <tag></tag>
-   <elementGuidId>5f3cda79-8d82-45e8-80f8-79a7debdd5f4</elementGuidId>
+   <elementGuidId>601c0869-cf7f-4fe0-b6aa-96dcff19e32d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='topnav-gambar']</value>
+         <value>(//button[@type='button'])[13]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#topnav-gambar</value>
+         <value>#staticBackdrop_1 > div.modal-dialog.modal-xl.modal-dialog-centered.modal-dialog-scrollable > div.modal-content > div.modal-footer > button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Master Gambar&quot;i]</value>
+         <value>internal:role=button[name=&quot;Pilih&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>dc17f6c5-83f8-4000-9586-4981154a65d2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>145a2b18-72b9-4639-a4bc-265c510844a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>topnav-gambar</value>
-      <webElementGuid>86625d26-7937-4150-b987-958dd9f24780</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b849fd89-2c30-48ff-a676-045f21842c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>data-bs-dismiss</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bd5402e0-9918-4d91-91b8-d3a9b37ac51d</webElementGuid>
+      <value>modal</value>
+      <webElementGuid>fb2de2ee-05ff-4d22-9043-1f7f7c70806a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>695dca92-769e-4d75-83fc-3a4d95ae7dfd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/gambar</value>
-      <webElementGuid>ba1f34e9-ec09-4376-8f02-d07a2633444a</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>1bcd8f97-8fe7-4e31-abf7-ea46ebc82b25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Master Gambar</value>
-      <webElementGuid>9f0e31da-4c68-4578-a36a-90192d7424d4</webElementGuid>
+      <value>Pilih</value>
+      <webElementGuid>09cfbd43-aa3e-42ee-9fcd-11d4d2d341ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;topnav-gambar&quot;)</value>
-      <webElementGuid>ad88eded-40bd-4db9-92cb-bb0e14200a9b</webElementGuid>
+      <value>id(&quot;staticBackdrop_1&quot;)/div[@class=&quot;modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>17e13ff0-8eee-481f-9c76-b0017ad643fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='topnav-gambar']</value>
-      <webElementGuid>a93f2042-68a2-493d-a4be-221d0aec6a02</webElementGuid>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>856c794b-387e-4890-a074-edfc47c124ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='offcanvasScrolling']/div/a[2]</value>
-      <webElementGuid>d7e8fa88-26ff-4418-beb8-281ef19d3d67</webElementGuid>
+      <value>//div[@id='staticBackdrop_1']/div/div/div[3]/button[2]</value>
+      <webElementGuid>21d85253-5446-4549-8616-154cd528b3ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/following::a[1]</value>
-      <webElementGuid>476c3748-e738-4c89-9695-d519eba17580</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/following::button[1]</value>
+      <webElementGuid>9224f08d-d8f4-4b74-8867-a8ed546071a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[2]</value>
-      <webElementGuid>f16cf248-79f1-4926-8b3c-36424839bf86</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template 25'])[2]/following::button[2]</value>
+      <webElementGuid>39caaacd-c2dc-4cd9-9688-fec0545c4f82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[1]</value>
-      <webElementGuid>652260e6-c921-42aa-9b7c-39576cf45b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Section'])[1]/preceding::button[1]</value>
+      <webElementGuid>68fcf817-9b95-4039-835c-09edaf9ca489</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/gambar')]</value>
-      <webElementGuid>bd937abf-33dc-4d35-b4cc-7e094b0c0b1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[3]/preceding::button[2]</value>
+      <webElementGuid>0f0b9a40-f9d1-4f6d-9111-b006f23f50fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a[2]</value>
-      <webElementGuid>61a9247f-5ed5-4613-a7db-e80434ba01a9</webElementGuid>
+      <value>//div[3]/div[2]/div/div/div/div/div[3]/button[2]</value>
+      <webElementGuid>40689951-42ae-42af-b7ef-a8b3ba45690b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'topnav-gambar' and @href = '/gambar' and (text() = 'Master Gambar' or . = 'Master Gambar')]</value>
-      <webElementGuid>3ed1df66-a365-49bc-9f48-94cb13aafc86</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Pilih' or . = 'Pilih')]</value>
+      <webElementGuid>80a51dd6-679b-47f1-8c68-a01e590e1a8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

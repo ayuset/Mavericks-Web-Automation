@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Gambar</name>
+   <name>button_Ya</name>
    <tag></tag>
-   <elementGuidId>5f3cda79-8d82-45e8-80f8-79a7debdd5f4</elementGuidId>
+   <elementGuidId>eb63b134-74b0-4abc-a34d-254aca806abc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='topnav-gambar']</value>
+         <key>CSS</key>
+         <value>button.swal2-confirm.swal2-styled.swal2-default-outline</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#topnav-gambar</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Master Gambar&quot;i]</value>
+         <value>internal:role=button[name=&quot;Ya&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>dc17f6c5-83f8-4000-9586-4981154a65d2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>50ad30e3-9504-4e2c-9bf9-7aef993a28a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>topnav-gambar</value>
-      <webElementGuid>86625d26-7937-4150-b987-958dd9f24780</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bd5402e0-9918-4d91-91b8-d3a9b37ac51d</webElementGuid>
+      <webElementGuid>2a958a77-3cbd-45bf-95bd-9c4717112248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>695dca92-769e-4d75-83fc-3a4d95ae7dfd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/gambar</value>
-      <webElementGuid>ba1f34e9-ec09-4376-8f02-d07a2633444a</webElementGuid>
+      <value>swal2-confirm swal2-styled swal2-default-outline</value>
+      <webElementGuid>d8f93eae-c07a-46b0-b770-6799089f9961</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Master Gambar</value>
-      <webElementGuid>9f0e31da-4c68-4578-a36a-90192d7424d4</webElementGuid>
+      <value>Ya</value>
+      <webElementGuid>d968a329-f040-487e-9177-2ea3bfb81ec9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;topnav-gambar&quot;)</value>
-      <webElementGuid>ad88eded-40bd-4db9-92cb-bb0e14200a9b</webElementGuid>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-warning swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled swal2-default-outline&quot;]</value>
+      <webElementGuid>2aa209c8-f117-43af-9355-fe61f512cacf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='topnav-gambar']</value>
-      <webElementGuid>a93f2042-68a2-493d-a4be-221d0aec6a02</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='offcanvasScrolling']/div/a[2]</value>
-      <webElementGuid>d7e8fa88-26ff-4418-beb8-281ef19d3d67</webElementGuid>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>91a18006-32c9-43fc-b183-23d71282e18a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/following::a[1]</value>
-      <webElementGuid>476c3748-e738-4c89-9695-d519eba17580</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah anda yakin menghapus data ini?'])[1]/following::button[1]</value>
+      <webElementGuid>32293791-b9fa-4709-9374-69395501f196</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[2]</value>
-      <webElementGuid>f16cf248-79f1-4926-8b3c-36424839bf86</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[1]/following::button[1]</value>
+      <webElementGuid>11d51488-8515-4574-b4ad-8c31a29620c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[1]</value>
-      <webElementGuid>652260e6-c921-42aa-9b7c-39576cf45b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>9459aaf3-357f-4478-b399-52324fa004a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/gambar')]</value>
-      <webElementGuid>bd937abf-33dc-4d35-b4cc-7e094b0c0b1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[2]</value>
+      <webElementGuid>2b92f030-f82b-469f-b7ae-f8cf11376eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
+      <webElementGuid>b02f71fc-0f5d-422e-a034-2a1827856001</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a[2]</value>
-      <webElementGuid>61a9247f-5ed5-4613-a7db-e80434ba01a9</webElementGuid>
+      <value>//div[6]/button</value>
+      <webElementGuid>9663f492-953b-4a56-87cd-bf2a8f1347dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'topnav-gambar' and @href = '/gambar' and (text() = 'Master Gambar' or . = 'Master Gambar')]</value>
-      <webElementGuid>3ed1df66-a365-49bc-9f48-94cb13aafc86</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>de04c6f3-1735-4064-96dd-b7944586836c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Tambah Gambar</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>41e3c229-19c2-4d43-a425-35283e405793</elementGuidId>
+   <elementGuidId>05dc07f4-1ce0-4f2c-928a-868c6e8799d3</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-sm.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Tambah Gambar&quot;i]</value>
+         <value>internal:role=button[name=&quot;✖&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>62fd6e99-9863-40d3-8f22-31859e83f101</webElementGuid>
+      <webElementGuid>2c931aee-1275-4615-a05e-0d665fb36d13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,31 +37,31 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>969ca0c5-6671-404a-bc33-ee2c5dbc02de</webElementGuid>
+      <webElementGuid>1b84ebd2-a143-418c-9ef9-93bea61d3e04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-sm btn-primary</value>
-      <webElementGuid>5dfd8655-042c-4dca-b9f8-743c7d3ef0fd</webElementGuid>
+      <value>btn btn-link position-absolute</value>
+      <webElementGuid>1ec9f8d5-b30b-43d6-b4eb-f618577c0e15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tambah Gambar </value>
-      <webElementGuid>d16e9b53-3feb-43dd-bccf-ccbffc977d16</webElementGuid>
+      <value> ✖ </value>
+      <webElementGuid>730eb740-07ae-4763-8e89-4888e9cae587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-list-image[1]/div[@class=&quot;image-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/div[@class=&quot;d-flex column-gap-2&quot;]/div[@class=&quot;btn-group btn-group-sm btn-group-justified blocks&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
-      <webElementGuid>0ac31dc7-200a-48ae-919c-35d474f9a3ad</webElementGuid>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;page-content&quot;]/app-list-image[1]/div[@class=&quot;image-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-transparent&quot;]/div[@class=&quot;card-header d-flex justify-content-between&quot;]/div[@class=&quot;d-flex column-gap-2&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/button[@class=&quot;btn btn-link position-absolute&quot;]</value>
+      <webElementGuid>e612885d-8c6a-43bc-b71c-fcc34dea9bfe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,15 +69,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>6ec6b316-ac35-4c1f-b92b-904ce8422fdb</webElementGuid>
+      <webElementGuid>3e0b4897-8f61-43ca-accf-1100f7d29225</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-list-image/div/div/div/div/div/div/div[3]/button</value>
-      <webElementGuid>970190e4-b1cc-4adb-9018-beab19924130</webElementGuid>
+      <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-list-image/div/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>311e0253-afbd-401d-990d-41ca5b5c9eeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Gambar'])[1]/following::button[2]</value>
-      <webElementGuid>aa8a5d3b-cf87-4549-9372-7176f3762500</webElementGuid>
+      <webElementGuid>7f8d6176-ecef-441b-b4f2-ef895a013265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,46 +93,46 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/following::button[2]</value>
-      <webElementGuid>c5080fc3-ef26-4f4a-871d-4290dd2aa1c8</webElementGuid>
+      <webElementGuid>84884f0c-bc51-422c-8eb6-5c2db21597d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaksa Agung Muda Pidana Khusus Kejagung Febrie Adriansyah'])[1]/preceding::button[1]</value>
-      <webElementGuid>cb8ef9d1-f70a-4a18-b577-76a3f5ebd2e1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Gambar'])[1]/preceding::button[1]</value>
+      <webElementGuid>4cf497b8-0962-45a1-8c85-729366e772e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puspenkum Kejagung'])[1]/preceding::button[1]</value>
-      <webElementGuid>a6f7c982-7416-413e-bd0f-cea0a04fb709</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini gambar orang'])[1]/preceding::button[2]</value>
+      <webElementGuid>11067b76-c429-474b-83b8-e54ccf1f25b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tambah Gambar']/parent::*</value>
-      <webElementGuid>0add35f4-afd2-4b99-8ee4-b636940365d8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='✖']/parent::*</value>
+      <webElementGuid>49bf9ced-9365-4d33-811f-2d5aa917876a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>5d432317-221f-4ede-b1b2-dc72a5212404</webElementGuid>
+      <value>//div/div/div/div/div[2]/button</value>
+      <webElementGuid>15732fae-d0cd-4a90-add5-af6ada8a54f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Tambah Gambar ' or . = ' Tambah Gambar ')]</value>
-      <webElementGuid>79991bfb-a4c8-4c95-859e-d953cd745b5a</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' ✖ ' or . = ' ✖ ')]</value>
+      <webElementGuid>ab6f3a0d-2d63-4e1b-8058-3c50ea6fa391</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

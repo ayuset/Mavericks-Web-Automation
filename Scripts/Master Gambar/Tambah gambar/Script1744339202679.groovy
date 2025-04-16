@@ -20,11 +20,9 @@ import java.nio.file.*
 import java.net.URL as URL
 import java.io.File as File
 
-WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
-
+//WebUI.callTestCase(findTestCase('Auth/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 // URL gambar dari Google Drive (direct download)
-
-String imageUrl = 'https://drive.google.com/uc?export=download&id=1sa9Zd8MZm6-O-hAzpfQ7FcwJkwlzpkDE'
+String imageUrl = 'https://cms-apistory.kejaksaan.go.id/storage/mav-prod-resized/480x/ori/master/2025/4/10/1744245854.webp'
 
 // Dapatkan path folder project
 String projectDir = System.getProperty('user.dir')
@@ -50,14 +48,12 @@ WebUI.click(findTestObject('Object Repository/Master Gambar/Tambah Gambar/Page_C
 WebUI.setText(findTestObject('Object Repository/Master Gambar/Tambah Gambar/Page_CMS  Maverick/input_Judul Gambar_title'), 
     'ini gambar ')
 
-WebUI.setText(findTestObject('Object Repository/Master Gambar/Tambah Gambar/Page_CMS  Maverick/input_Copyright Gambar_copyright'),
-	'Google')
+WebUI.setText(findTestObject('Object Repository/Master Gambar/Tambah Gambar/Page_CMS  Maverick/input_Copyright Gambar_copyright'), 
+    'Google')
 
 Files.copy(new URL(imageUrl).openStream(), Paths.get(localPath), StandardCopyOption.REPLACE_EXISTING)
 
 WebUI.uploadFile(findTestObject('Object Repository/Master Gambar/Tambah Gambar/Page_CMS  Maverick/div_Add Image'), localPath)
-
-
 
 // Optional: delete setelah upload
 Files.deleteIfExists(Paths.get(localPath))

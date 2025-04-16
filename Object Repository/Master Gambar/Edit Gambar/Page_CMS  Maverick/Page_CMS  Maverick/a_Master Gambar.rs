@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Master Gambar</name>
    <tag></tag>
-   <elementGuidId>5f3cda79-8d82-45e8-80f8-79a7debdd5f4</elementGuidId>
+   <elementGuidId>d6350f56-1b0a-4807-86fd-74eba74f20fd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[@id='topnav-gambar']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#topnav-gambar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='topnav-gambar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dc17f6c5-83f8-4000-9586-4981154a65d2</webElementGuid>
+      <webElementGuid>32653f7a-1d32-4d21-b0ef-a9bef343c558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>topnav-gambar</value>
-      <webElementGuid>86625d26-7937-4150-b987-958dd9f24780</webElementGuid>
+      <webElementGuid>2d0103a6-c8a1-403a-ad9c-44b9f6fceef0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bd5402e0-9918-4d91-91b8-d3a9b37ac51d</webElementGuid>
+      <webElementGuid>2cd1fc7f-e483-4662-907a-ed43f7c6e896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>695dca92-769e-4d75-83fc-3a4d95ae7dfd</webElementGuid>
+      <webElementGuid>3b9bfcbb-df94-49aa-8040-58de2f4d3fe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/gambar</value>
-      <webElementGuid>ba1f34e9-ec09-4376-8f02-d07a2633444a</webElementGuid>
+      <webElementGuid>7d92275d-8698-4aff-805c-0f64ee8c73a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Master Gambar</value>
-      <webElementGuid>9f0e31da-4c68-4578-a36a-90192d7424d4</webElementGuid>
+      <webElementGuid>83ca0d4a-8aee-4972-8a7e-2d6ac74bd593</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;topnav-gambar&quot;)</value>
-      <webElementGuid>ad88eded-40bd-4db9-92cb-bb0e14200a9b</webElementGuid>
+      <webElementGuid>2f67ccbe-b1fb-47d5-ba6f-dc38c23a2b37</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='topnav-gambar']</value>
-      <webElementGuid>a93f2042-68a2-493d-a4be-221d0aec6a02</webElementGuid>
+      <webElementGuid>af760541-eeb9-4c80-aa03-2c3cbd26aba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='offcanvasScrolling']/div/a[2]</value>
-      <webElementGuid>d7e8fa88-26ff-4418-beb8-281ef19d3d67</webElementGuid>
+      <webElementGuid>926330ec-6f13-49f7-86f5-337721a09637</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/following::a[1]</value>
-      <webElementGuid>476c3748-e738-4c89-9695-d519eba17580</webElementGuid>
+      <webElementGuid>493c0913-536f-4499-a3e8-9de429e60766</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[2]</value>
-      <webElementGuid>f16cf248-79f1-4926-8b3c-36424839bf86</webElementGuid>
+      <webElementGuid>ab1b5174-030b-4d5e-8c31-ad671b78db00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[1]</value>
-      <webElementGuid>652260e6-c921-42aa-9b7c-39576cf45b46</webElementGuid>
+      <webElementGuid>0c26af4c-2aca-4699-830b-c6b8bc180811</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/gambar')]</value>
-      <webElementGuid>bd937abf-33dc-4d35-b4cc-7e094b0c0b1c</webElementGuid>
+      <webElementGuid>da66e906-c001-402a-af0b-169f1d697a83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a[2]</value>
-      <webElementGuid>61a9247f-5ed5-4613-a7db-e80434ba01a9</webElementGuid>
+      <webElementGuid>ea611096-dc49-4930-b44b-deb589188b8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'topnav-gambar' and @href = '/gambar' and (text() = 'Master Gambar' or . = 'Master Gambar')]</value>
-      <webElementGuid>3ed1df66-a365-49bc-9f48-94cb13aafc86</webElementGuid>
+      <webElementGuid>59268cb2-194a-4089-99eb-31c65d9f59de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

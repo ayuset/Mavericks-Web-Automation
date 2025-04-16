@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>b8086bba-d442-4b31-be49-83acc42845ea</elementGuidId>
+   <elementGuidId>6d3f2ffe-c035-46b5-ab2e-7e2c90f4c605</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f5321cd2-88a5-4441-b2b3-cb157026ee0d</webElementGuid>
+      <webElementGuid>d45850b5-a66c-48d6-8571-be83e594b6f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary text-center</value>
-      <webElementGuid>66e4b59d-7aeb-46d4-9415-5291db50cdf0</webElementGuid>
+      <webElementGuid>650199bd-9499-42ba-b12c-02d219d269fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>10a2de0b-c411-4965-b5ca-6688be01ac96</webElementGuid>
+      <webElementGuid>496e707f-0457-4cfa-9684-ba3aa2eb33c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-form-image[1]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-primary text-center&quot;]</value>
-      <webElementGuid>517a97d6-5f0f-409c-ba05-3fb6637112fb</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-form-image[1]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-primary text-center&quot;]</value>
+      <webElementGuid>249dd48d-1690-4360-a3ee-dfec144209c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Format gambar : .png, .jpg, .jpeg'])[1]/following::button[1]</value>
-      <webElementGuid>d5bc7253-deb8-4234-915e-5391e153258e</webElementGuid>
+      <webElementGuid>bb4ee460-c96d-42b1-ad86-6f42b4b94cdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Ukuran gambar : Maks : 1 MB'])[1]/following::button[1]</value>
-      <webElementGuid>fef83ebb-ab38-41fa-8534-ec4fb026b35c</webElementGuid>
+      <webElementGuid>bc4d0747-0e54-4164-b30c-2b753b68c4fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div[2]/button</value>
-      <webElementGuid>929982f9-4df6-43a9-bdf4-d98d697a85ce</webElementGuid>
+      <value>//form/div/div/div/div/div[2]/button</value>
+      <webElementGuid>75985309-8a66-4178-9b2d-34966c73aa24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>8888661a-483f-4a0f-a099-6b590b221b35</webElementGuid>
+      <webElementGuid>39db5fc8-fa9b-424d-a33e-8fc74abc9a1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

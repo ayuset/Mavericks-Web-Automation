@@ -44,4 +44,24 @@
       <initValue>'user+3@gmail.com'</initValue>
       <name>user_email</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ini paragraf'</initValue>
+      <name>isi_konten</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Kejagung Geledah Pertamina Pelumpang, Sita 17 Boks Kontainer'</initValue>
+      <name>isi_judul_template</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ini caption gambar'</initValue>
+      <name>caption_image</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Google'</initValue>
+      <name>copyright</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

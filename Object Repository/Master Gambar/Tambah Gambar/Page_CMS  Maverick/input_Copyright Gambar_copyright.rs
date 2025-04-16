@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7a98e38b-7e42-4e91-967c-77f7574666d2</webElementGuid>
+      <webElementGuid>1fd7e96e-7ad4-4feb-89d3-7412dec45145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>copyright</value>
-      <webElementGuid>2d70fad2-002e-472c-9cd9-4d8a4ae8ccea</webElementGuid>
+      <webElementGuid>897003f4-7edf-47ac-a5b3-94f3d59f6b4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>83a40ae9-837c-448f-9171-e34c5be3f7f9</webElementGuid>
+      <webElementGuid>b3298382-f168-467c-ab90-1edd3da9eaf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>copyright</value>
-      <webElementGuid>4be826d3-2966-4027-b466-bd06cb321afa</webElementGuid>
+      <webElementGuid>5bc649b4-5b1e-474a-8e36-e341051db3f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Isikan Copyright Gambar...</value>
-      <webElementGuid>cc86d4cf-6733-49a1-83b4-46c7e02f8b37</webElementGuid>
+      <webElementGuid>a1d0e73e-6506-4d96-a29b-87d1ef59b6bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>892e3b13-10e0-44d9-bcbc-a5d886b5d4de</webElementGuid>
+      <webElementGuid>2e5787ed-a83b-4a75-8a50-612f3b21f8f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;copyright&quot;)</value>
-      <webElementGuid>c583717e-4d0b-4655-974e-044085fb423d</webElementGuid>
+      <webElementGuid>88dccd21-18eb-4374-a16f-7299ae92adec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='copyright']</value>
-      <webElementGuid>e38ea7a7-e400-42ae-909e-59a24dd3f449</webElementGuid>
+      <webElementGuid>fb03519f-f03a-4b42-abf3-6f93a2901702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>aa4ef8c5-9ed1-41ae-aa76-f3bd91feea89</webElementGuid>
+      <webElementGuid>44266481-f1e7-44f1-a33f-bea6a05b8aae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'copyright' and @type = 'text' and @name = 'copyright' and @placeholder = 'Isikan Copyright Gambar...']</value>
-      <webElementGuid>742709da-8cb8-4d5e-8895-68615fee9e99</webElementGuid>
+      <webElementGuid>b565b12f-9ad7-4c11-a354-09b4abddbf1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

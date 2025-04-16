@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Tambah</name>
+   <name>div_ini gambarGoogle</name>
    <tag></tag>
-   <elementGuidId>6ff1237c-72b6-47dd-89c8-2069a39d6894</elementGuidId>
+   <elementGuidId>97f629e3-70bc-4d0f-85a9-e82333a2a6d5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <key>CSS</key>
+         <value>#overlay-action-34</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.modal-footer.text-right > button.btn.btn-primary</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;layout-wrapper&quot;]/div/div/div[2]/div/app-list-image/div/div/div/div/div[2]/div/div[1]/div[1]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Tambah&quot;i]</value>
+         <value>#overlay-action-34</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>05972931-20d7-411a-8f91-2b24f07ca544</webElementGuid>
+      <value>div</value>
+      <webElementGuid>329ad8af-de79-4339-bfa9-8f630a8a2aa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>692cd8b1-f945-4c10-8428-9b02381dd7b4</webElementGuid>
+      <value>overlay-action-34</value>
+      <webElementGuid>fac6d8f9-9edf-473d-8d03-f472a2f9fd09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>dbf93311-6181-4500-a80b-b937eff4ae8f</webElementGuid>
+      <value>bankImageItemSelected</value>
+      <webElementGuid>2578dbfd-8554-404f-bae3-e157bde59eea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tambah</value>
-      <webElementGuid>00195e07-8d78-46a0-b54c-17179e3a7415</webElementGuid>
+      <value>ini gambarGoogle</value>
+      <webElementGuid>586a670f-4d95-4fda-9ec6-1343bb595053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer text-right&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>d5f81d0f-3e28-48fa-b695-73db4b19d438</webElementGuid>
+      <value>id(&quot;overlay-action-34&quot;)</value>
+      <webElementGuid>d33bd9ea-d0b2-4eeb-8433-6b2ea3f008ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>cb7cf569-6168-4534-8362-0cd55fe05b19</webElementGuid>
+      <value>//div[@id='overlay-action-34']</value>
+      <webElementGuid>95ca44fb-5341-4c71-b64f-a01be6a32d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div/div/div[2]/div/app-list-image/div/div/div/div/div[2]/div/div/div[3]/div/label/div/div</value>
+      <webElementGuid>5c4e3d89-8200-46bb-956a-50bcffe7a6a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>936d53f2-2341-4dcb-b550-51c3fc18411c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[2]/following::div[5]</value>
+      <webElementGuid>1882f57a-840b-4bf0-b5b9-ddb66fc6d1cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::button[2]</value>
-      <webElementGuid>dde26c4f-67d9-4ba9-a467-ca7148c662c6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
-      <webElementGuid>1b6a101f-5bf8-4f6f-91db-2500b0863241</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ini gambar'])[2]/following::div[5]</value>
+      <webElementGuid>bf2d7680-bfb1-4430-9293-22e772ff76e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ngb-modal-window[2]/div/div/div[2]/button[2]</value>
-      <webElementGuid>9b3c2174-2063-475b-9773-cdac0a88a7ee</webElementGuid>
+      <value>//div[3]/div/label/div/div</value>
+      <webElementGuid>6b9d779b-1565-4a7a-8c92-feb1ba290f4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Tambah' or . = ' Tambah')]</value>
-      <webElementGuid>89d5afcb-097e-4bde-a077-e8c226192cad</webElementGuid>
+      <value>//div[@id = 'overlay-action-34' and (text() = 'ini gambarGoogle' or . = 'ini gambarGoogle')]</value>
+      <webElementGuid>5b93d368-5f83-45c9-b13c-cacaf3ab298a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

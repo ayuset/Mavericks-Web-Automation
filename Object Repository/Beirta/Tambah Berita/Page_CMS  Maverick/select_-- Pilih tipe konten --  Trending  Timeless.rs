@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Gambar</name>
+   <name>select_-- Pilih tipe konten --  Trending  Timeless</name>
    <tag></tag>
-   <elementGuidId>5f3cda79-8d82-45e8-80f8-79a7debdd5f4</elementGuidId>
+   <elementGuidId>9009c6ed-9e53-477d-999e-10ee462f1d80</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='topnav-gambar']</value>
+         <key>CSS</key>
+         <value>select[name=&quot;content_type&quot;]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#topnav-gambar</value>
+         <key>XPATH</key>
+         <value>//select[@name='content_type']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Master Gambar&quot;i]</value>
+         <value>internal:role=combobox</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>dc17f6c5-83f8-4000-9586-4981154a65d2</webElementGuid>
+      <value>select</value>
+      <webElementGuid>7dbfaff1-6afc-494f-81e1-ed1186bc7ab7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>topnav-gambar</value>
-      <webElementGuid>86625d26-7937-4150-b987-958dd9f24780</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bd5402e0-9918-4d91-91b8-d3a9b37ac51d</webElementGuid>
+      <value>content_type</value>
+      <webElementGuid>58eb58c9-1aa7-4c0b-9111-ccbdab14c7f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item dropdown-toggle arrow-none side-nav-link-ref px-3 py-2 nav-item-hover</value>
-      <webElementGuid>695dca92-769e-4d75-83fc-3a4d95ae7dfd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/gambar</value>
-      <webElementGuid>ba1f34e9-ec09-4376-8f02-d07a2633444a</webElementGuid>
+      <value>form-control form-control-sm bg-white ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>b15bbac6-0a8d-4df0-a118-1533265e505f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Master Gambar</value>
-      <webElementGuid>9f0e31da-4c68-4578-a36a-90192d7424d4</webElementGuid>
+      <value>    -- Pilih tipe konten --     Trending     Timeless </value>
+      <webElementGuid>d1924eb1-32e5-4b8c-9701-75f341525aa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;topnav-gambar&quot;)</value>
-      <webElementGuid>ad88eded-40bd-4db9-92cb-bb0e14200a9b</webElementGuid>
+      <value>id(&quot;content_type&quot;)/div[@class=&quot;card card-body py-0&quot;]/div[@class=&quot;custom-select&quot;]/select[@class=&quot;form-control form-control-sm bg-white ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>262c7d61-80eb-45de-b0e9-a06ee8c3baac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='topnav-gambar']</value>
-      <webElementGuid>a93f2042-68a2-493d-a4be-221d0aec6a02</webElementGuid>
+      <value>//select[@name='content_type']</value>
+      <webElementGuid>e2b65e1d-7fd9-49ff-b425-d087948863d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='offcanvasScrolling']/div/a[2]</value>
-      <webElementGuid>d7e8fa88-26ff-4418-beb8-281ef19d3d67</webElementGuid>
+      <value>//div[@id='content_type']/div/div/select</value>
+      <webElementGuid>5a2ce8f2-fbc1-4b18-923c-16240911287c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/following::a[1]</value>
-      <webElementGuid>476c3748-e738-4c89-9695-d519eba17580</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tipe konten'])[1]/following::select[1]</value>
+      <webElementGuid>868a3483-2470-4d5c-830f-246ad25ed530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::a[2]</value>
-      <webElementGuid>f16cf248-79f1-4926-8b3c-36424839bf86</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kategori'])[1]/following::select[2]</value>
+      <webElementGuid>19ebd9f8-284b-4d65-b955-7f7f955e689a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[1]</value>
-      <webElementGuid>652260e6-c921-42aa-9b7c-39576cf45b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Homepage Pick'])[1]/preceding::select[1]</value>
+      <webElementGuid>b187b96b-5a0b-4822-a99b-18ddb3352b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/gambar')]</value>
-      <webElementGuid>bd937abf-33dc-4d35-b4cc-7e094b0c0b1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan artikel di Home'])[1]/preceding::select[1]</value>
+      <webElementGuid>df323800-4480-4f63-bfa1-a7b38f5c4baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a[2]</value>
-      <webElementGuid>61a9247f-5ed5-4613-a7db-e80434ba01a9</webElementGuid>
+      <value>//div[6]/div/div/div/select</value>
+      <webElementGuid>f7e5c3d3-871e-416e-b239-23e74d89fef1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'topnav-gambar' and @href = '/gambar' and (text() = 'Master Gambar' or . = 'Master Gambar')]</value>
-      <webElementGuid>3ed1df66-a365-49bc-9f48-94cb13aafc86</webElementGuid>
+      <value>//select[@name = 'content_type' and (text() = '    -- Pilih tipe konten --     Trending     Timeless ' or . = '    -- Pilih tipe konten --     Trending     Timeless ')]</value>
+      <webElementGuid>d61d1aa0-0425-43ad-a369-8a3438c20e23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

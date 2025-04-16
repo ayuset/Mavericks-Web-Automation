@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Tambah</name>
+   <name>button_Simpan  Publish</name>
    <tag></tag>
-   <elementGuidId>6ff1237c-72b6-47dd-89c8-2069a39d6894</elementGuidId>
+   <elementGuidId>6a09a779-1dc1-4d9b-acfe-f6cdcdeebd1a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.text-center.text-white</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.modal-footer.text-right > button.btn.btn-primary</value>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Tambah&quot;i]</value>
+         <value>internal:role=button[name=&quot;Simpan &amp; Publish&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>05972931-20d7-411a-8f91-2b24f07ca544</webElementGuid>
+      <webElementGuid>a65ba5bc-8edd-4aac-90d5-d0dc3ef3f119</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,78 +37,86 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>692cd8b1-f945-4c10-8428-9b02381dd7b4</webElementGuid>
+      <webElementGuid>4e117d91-56af-4225-852b-7b3d6ba4b7d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>dbf93311-6181-4500-a80b-b937eff4ae8f</webElementGuid>
+      <value>btn btn-primary text-center text-white</value>
+      <webElementGuid>a9b1a9ec-a5f3-4734-9494-abced948f77b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tambah</value>
-      <webElementGuid>00195e07-8d78-46a0-b54c-17179e3a7415</webElementGuid>
+      <value>Simpan &amp; Publish</value>
+      <webElementGuid>4ec57a85-6b9a-43f1-ae9c-4370cfe9acf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer text-right&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>d5f81d0f-3e28-48fa-b695-73db4b19d438</webElementGuid>
+      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 py-3&quot;]/div[@class=&quot;row row-gap-2&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-primary text-center text-white&quot;]</value>
+      <webElementGuid>0c72e4e9-b82d-487e-968f-506c0d05b670</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>cb7cf569-6168-4534-8362-0cd55fe05b19</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>3fc6cd63-d416-46cd-bf98-0243d504f9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div[2]/div/div[3]/button</value>
+      <webElementGuid>7f0e9ddc-9ffc-49c8-8094-e9bea2c5c6b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>936d53f2-2341-4dcb-b550-51c3fc18411c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::button[1]</value>
+      <webElementGuid>43ba21d6-8ddb-4969-b316-0b8e04af9370</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::button[2]</value>
-      <webElementGuid>dde26c4f-67d9-4ba9-a467-ca7148c662c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/following::button[2]</value>
+      <webElementGuid>29128d8f-04c6-4b92-a9ee-2520af4e1ef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
-      <webElementGuid>1b6a101f-5bf8-4f6f-91db-2500b0863241</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::button[1]</value>
+      <webElementGuid>f1909a95-9182-43e4-a203-05babc387bb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ngb-modal-window[2]/div/div/div[2]/button[2]</value>
-      <webElementGuid>9b3c2174-2063-475b-9773-cdac0a88a7ee</webElementGuid>
+      <value>//div[2]/div/div[3]/button</value>
+      <webElementGuid>ca1d2782-8721-4174-9bf8-199765b11c58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Tambah' or . = ' Tambah')]</value>
-      <webElementGuid>89d5afcb-097e-4bde-a077-e8c226192cad</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Simpan &amp; Publish' or . = 'Simpan &amp; Publish')]</value>
+      <webElementGuid>e53aad26-2380-4bc4-a2a9-8823fef73120</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Tambah</name>
+   <name>button_Masuk</name>
    <tag></tag>
-   <elementGuidId>6ff1237c-72b6-47dd-89c8-2069a39d6894</elementGuidId>
+   <elementGuidId>2fa21644-eadc-4d61-8544-cc13fc8edd5c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <key>CSS</key>
+         <value>button.btn-login.bg-primary</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.modal-footer.text-right > button.btn.btn-primary</value>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Tambah&quot;i]</value>
+         <value>internal:role=button[name=&quot;Masuk&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>05972931-20d7-411a-8f91-2b24f07ca544</webElementGuid>
+      <webElementGuid>0309b32c-8c6d-4e9e-b83a-5b2647c59bda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,78 +37,70 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>692cd8b1-f945-4c10-8428-9b02381dd7b4</webElementGuid>
+      <webElementGuid>4200febd-d37d-4c79-941f-16df7fdaf308</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>dbf93311-6181-4500-a80b-b937eff4ae8f</webElementGuid>
+      <value>btn-login bg-primary</value>
+      <webElementGuid>99e05cc1-a7c0-48cf-9294-3de7537f6f26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tambah</value>
-      <webElementGuid>00195e07-8d78-46a0-b54c-17179e3a7415</webElementGuid>
+      <value> Masuk </value>
+      <webElementGuid>5ee8f717-6c02-41ea-b73e-3c05d09bc8ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer text-right&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>d5f81d0f-3e28-48fa-b695-73db4b19d438</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;row main-pages&quot;]/div[@class=&quot;col-12 d-flex justify-content-center align-items-center&quot;]/section[@class=&quot;form-section&quot;]/div[@class=&quot;content mt-5 mb-5&quot;]/div[@class=&quot;row shadow-lg&quot;]/div[@class=&quot;col-12 mb-4 px-4 text-center&quot;]/button[@class=&quot;btn-login bg-primary&quot;]</value>
+      <webElementGuid>296aa11e-7e69-45ed-bd8c-d81c1d071732</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>cb7cf569-6168-4534-8362-0cd55fe05b19</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>e0a921d6-d547-4147-a102-467b92d3a6ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>936d53f2-2341-4dcb-b550-51c3fc18411c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
+      <webElementGuid>caec450d-e7d6-4324-a526-47ab24ca011e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::button[2]</value>
-      <webElementGuid>dde26c4f-67d9-4ba9-a467-ca7148c662c6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
-      <webElementGuid>1b6a101f-5bf8-4f6f-91db-2500b0863241</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>2602b93e-09b4-4445-a3ec-c8048f5e5978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ngb-modal-window[2]/div/div/div[2]/button[2]</value>
-      <webElementGuid>9b3c2174-2063-475b-9773-cdac0a88a7ee</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>548272e1-0712-4fd4-a789-9141a181aed1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Tambah' or . = ' Tambah')]</value>
-      <webElementGuid>89d5afcb-097e-4bde-a077-e8c226192cad</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>ee5e7554-6049-4761-83a8-b9b64241c4de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

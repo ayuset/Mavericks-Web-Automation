@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload gambar</name>
+   <tag></tag>
+   <elementGuidId>777f80c7-7e1b-4bfc-af90-3f11800a348d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outline-primary.d-flex.column-gap-2.mt-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Upload gambar$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>adf4b6d3-ca6a-48c6-9135-689be9840f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93973fba-0842-49d9-87f2-95daac0f5599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary d-flex column-gap-2 mt-2</value>
+      <webElementGuid>e0124f17-a904-46fd-a88c-b229f842d89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload gambar</value>
+      <webElementGuid>fce032b1-d8bd-4d8f-9f03-5d3cb74759b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white border&quot;]/div[@class=&quot;my-3&quot;]/div[1]/button[@class=&quot;btn btn-outline-primary d-flex column-gap-2 mt-2&quot;]</value>
+      <webElementGuid>9bf5d018-f9f8-400b-b57d-196d325924cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>c7f2eaad-6202-4b5c-9dd5-1a876e476dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>50be5c35-ec58-4bdf-93ae-97d2ec7e5d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Format gambar : .png, .jpg, .jpeg'])[1]/following::button[1]</value>
+      <webElementGuid>8da0e1c2-8d4b-40bd-b1c4-f8b85ffce179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Ukuran gambar : 1080px x 1920px (9:16) | Maks : 1 MB'])[1]/following::button[1]</value>
+      <webElementGuid>7b3fa058-38cc-4bae-a6bb-e9bd9357e889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section 1 (Default)'])[1]/preceding::button[1]</value>
+      <webElementGuid>56641528-a3c3-4f31-a586-c917a2373345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>26f75383-8328-48e3-a084-ea3813a84d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Upload gambar' or . = 'Upload gambar')]</value>
+      <webElementGuid>acacef73-7570-4863-9733-19446b4a191c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Judul Gambar_title</name>
+   <name>input__form-custom ng-untouched ng-valid ng-dirty</name>
    <tag></tag>
-   <elementGuidId>4e17e597-311c-4b45-85a6-67fdbee5cb04</elementGuidId>
+   <elementGuidId>726c7d67-d832-404a-a62a-3af4cd257a1b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='title']</value>
+         <key>CSS</key>
+         <value>input.form-custom.ng-untouched.ng-valid.ng-dirty</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#title</value>
+         <key>XPATH</key>
+         <value>//input[@type='email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Isikan Judul Gambar...&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Email Address.....&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed43a283-6c8e-43f5-a73a-ad4cd6969847</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>6f16e3f4-5d89-4629-bb57-c8ffe5ff1de0</webElementGuid>
+      <webElementGuid>5a5ab44a-70f8-44ce-ba2f-d3ae9c8314d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>102f16a8-4f0b-4cc3-872d-4aaa2289675b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>b873ff8c-2472-4d97-af1f-40a61bdaee3a</webElementGuid>
+      <value>email</value>
+      <webElementGuid>fb885404-b160-490a-8e49-399da27bfb89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Isikan Judul Gambar...</value>
-      <webElementGuid>c9d0c56a-7579-4c4f-8a4f-1994d5d84a1d</webElementGuid>
+      <value>Email Address.....</value>
+      <webElementGuid>630d9536-d680-4189-84cc-efac9c6986fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>790baeef-539e-444a-b6c4-7c9ab49cfce4</webElementGuid>
+      <value>form-custom ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>11edac96-866b-4eef-ada9-27f156806916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title&quot;)</value>
-      <webElementGuid>1d06c31d-3b11-4188-b270-4ceb1583465d</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;row main-pages&quot;]/div[@class=&quot;col-12 d-flex justify-content-center align-items-center&quot;]/section[@class=&quot;form-section&quot;]/div[@class=&quot;content mt-5 mb-5&quot;]/div[@class=&quot;row shadow-lg&quot;]/div[@class=&quot;col-12 mb-3 px-4&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-custom ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>629234b1-b403-4bac-ba68-ea8531bcb139</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='title']</value>
-      <webElementGuid>4fd9fb59-44ee-4216-a848-df43aa0cc839</webElementGuid>
+      <value>//input[@type='email']</value>
+      <webElementGuid>4cefe572-8cbc-472e-aeca-e8d788a55f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>b6304553-1619-41ad-bb14-c3de7a91e5ff</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>8f4f0962-9249-4418-964d-dc03a2a27b73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'title' and @type = 'text' and @name = 'title' and @placeholder = 'Isikan Judul Gambar...']</value>
-      <webElementGuid>dc744641-d302-4aa2-9413-49f6e048d363</webElementGuid>
+      <value>//input[@type = 'email' and @placeholder = 'Email Address.....']</value>
+      <webElementGuid>580ca2d2-5439-4591-a0e5-7ab92dc6ff7e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

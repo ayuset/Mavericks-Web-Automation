@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p</name>
+   <tag></tag>
+   <elementGuidId>659cb070-e4bc-4e99-8f57-d41d0a9379ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='newsForm']/div/div/div/div[3]/div[5]/ckeditor/div[2]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b63b8de6-c0e9-439e-ae31-94e440042f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white mt-3 border section-news&quot;]/div[@class=&quot;my-3&quot;]/ckeditor[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ck ck-reset ck-editor ck-rounded-corners&quot;]/div[@class=&quot;ck ck-editor__main&quot;]/div[@class=&quot;ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused&quot;]/p[1]</value>
+      <webElementGuid>57504292-7276-4218-b48d-ae501d975137</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div/div[3]/div[5]/ckeditor/div[2]/div[2]/div/p</value>
+      <webElementGuid>4ef2e902-3f7e-426b-aa1b-99f2f3579c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[1]/following::p[1]</value>
+      <webElementGuid>d085a3be-a6ec-477e-b395-b86301790013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numbered List'])[1]/following::p[1]</value>
+      <webElementGuid>157f3650-7e81-4067-8228-1af95dc2a5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Section'])[1]/preceding::p[1]</value>
+      <webElementGuid>764973ce-3a30-4513-bfd8-00096ed9e7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[3]/preceding::p[1]</value>
+      <webElementGuid>4b80d5ed-e201-40d9-ac40-53bdb5dd2902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>3f44d519-c956-466f-904c-1b761be4f748</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

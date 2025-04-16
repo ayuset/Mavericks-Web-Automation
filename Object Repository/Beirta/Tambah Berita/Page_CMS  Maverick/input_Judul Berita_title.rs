@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Judul Gambar_title</name>
+   <name>input_Judul Berita_title</name>
    <tag></tag>
-   <elementGuidId>4e17e597-311c-4b45-85a6-67fdbee5cb04</elementGuidId>
+   <elementGuidId>aaeb6eb1-b48f-4d75-a78d-d28b35aba6ef</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='title']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='title']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Isikan Judul Gambar...&quot;i]</value>
+         <value>internal:label=&quot;Judul Berita:&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed43a283-6c8e-43f5-a73a-ad4cd6969847</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>6f16e3f4-5d89-4629-bb57-c8ffe5ff1de0</webElementGuid>
+      <webElementGuid>83b2ebb5-4852-479d-a512-00921ee9a543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>102f16a8-4f0b-4cc3-872d-4aaa2289675b</webElementGuid>
+      <webElementGuid>defca5f5-9bfe-4df1-8dc2-b22d8de8ed23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,23 +45,39 @@
       <name>name</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>b873ff8c-2472-4d97-af1f-40a61bdaee3a</webElementGuid>
+      <webElementGuid>61028bf1-1a7d-4100-98ff-9daad36e6d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>245b4a6b-4b3d-46ce-8805-7d860cad24cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>488b3997-e69e-40a1-9f45-7994607002dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Isikan Judul Gambar...</value>
-      <webElementGuid>c9d0c56a-7579-4c4f-8a4f-1994d5d84a1d</webElementGuid>
+      <value>Isikan Judul...</value>
+      <webElementGuid>620a7404-3bf3-4819-81a3-5c840d91e790</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>790baeef-539e-444a-b6c4-7c9ab49cfce4</webElementGuid>
+      <value>form-control rounded ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>e2c90d9b-39f8-4dfd-a3d9-8be823708437</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;title&quot;)</value>
-      <webElementGuid>1d06c31d-3b11-4188-b270-4ceb1583465d</webElementGuid>
+      <webElementGuid>222c8473-626a-4608-8f2d-b25ff5dba6a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,22 +93,30 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='title']</value>
-      <webElementGuid>4fd9fb59-44ee-4216-a848-df43aa0cc839</webElementGuid>
+      <webElementGuid>e51b46ae-e6b2-4da7-8a12-476df2d2a012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div/div/div/div/input</value>
+      <webElementGuid>9562c5a1-dcee-4e43-8da3-7b78204ea7cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>b6304553-1619-41ad-bb14-c3de7a91e5ff</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>e6faba17-3383-499b-a17f-b533083ba36e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'title' and @type = 'text' and @name = 'title' and @placeholder = 'Isikan Judul Gambar...']</value>
-      <webElementGuid>dc744641-d302-4aa2-9413-49f6e048d363</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'title' and @id = 'title' and @placeholder = 'Isikan Judul...']</value>
+      <webElementGuid>9116d885-1a75-46ae-8423-a678666e2f37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

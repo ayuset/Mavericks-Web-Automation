@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Judul Gambar_title</name>
+   <name>input__template_param_key_image_copyright</name>
    <tag></tag>
-   <elementGuidId>4e17e597-311c-4b45-85a6-67fdbee5cb04</elementGuidId>
+   <elementGuidId>dc8250bf-b942-4bdc-ac88-fc6190c5d11d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='title']</value>
+         <key>CSS</key>
+         <value>#template_param_key_image_copyright</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#title</value>
+         <key>XPATH</key>
+         <value>//input[@id='template_param_key_image_copyright']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Isikan Judul Gambar...&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Isikan copyright gambar...&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed43a283-6c8e-43f5-a73a-ad4cd6969847</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title</value>
-      <webElementGuid>6f16e3f4-5d89-4629-bb57-c8ffe5ff1de0</webElementGuid>
+      <webElementGuid>e8ebe807-2c14-4141-b729-162ee4665b8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,62 +37,78 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>102f16a8-4f0b-4cc3-872d-4aaa2289675b</webElementGuid>
+      <webElementGuid>0dab2361-1bcf-44c9-b04f-3ebbaf885f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>template_param_key_image_copyright</value>
+      <webElementGuid>11a9eac6-74ed-425a-8388-031c7bf02a50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>title</value>
-      <webElementGuid>b873ff8c-2472-4d97-af1f-40a61bdaee3a</webElementGuid>
+      <value>template_param_key_image_copyright</value>
+      <webElementGuid>eb3530c4-7af7-46d0-87e6-b6fbbd37934c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Isikan Judul Gambar...</value>
-      <webElementGuid>c9d0c56a-7579-4c4f-8a4f-1994d5d84a1d</webElementGuid>
+      <value>Isikan copyright gambar...</value>
+      <webElementGuid>362bcad6-38a8-42da-8f5e-8c8d32c94df9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>790baeef-539e-444a-b6c4-7c9ab49cfce4</webElementGuid>
+      <value>form-control rounded ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>e1ddc6c2-935c-4802-ae28-75297465e5a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title&quot;)</value>
-      <webElementGuid>1d06c31d-3b11-4188-b270-4ceb1583465d</webElementGuid>
+      <value>id(&quot;template_param_key_image_copyright&quot;)</value>
+      <webElementGuid>3a1d6e63-c835-4be3-913b-48b8c18cbe38</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='title']</value>
-      <webElementGuid>4fd9fb59-44ee-4216-a848-df43aa0cc839</webElementGuid>
+      <value>//input[@id='template_param_key_image_copyright']</value>
+      <webElementGuid>c67c526d-735a-4b08-98c8-d4032e3a5859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div/div[2]/div[4]/div[2]/div/input</value>
+      <webElementGuid>45c42916-4eba-4bc6-b957-6817232fbf83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>b6304553-1619-41ad-bb14-c3de7a91e5ff</webElementGuid>
+      <value>//div[4]/div[2]/div/input</value>
+      <webElementGuid>43db60d8-1b31-4a80-8c71-90a85cea90bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'title' and @type = 'text' and @name = 'title' and @placeholder = 'Isikan Judul Gambar...']</value>
-      <webElementGuid>dc744641-d302-4aa2-9413-49f6e048d363</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'template_param_key_image_copyright' and @name = 'template_param_key_image_copyright' and @placeholder = 'Isikan copyright gambar...']</value>
+      <webElementGuid>2aa16277-797d-433e-9ea8-12dcc9d63b5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

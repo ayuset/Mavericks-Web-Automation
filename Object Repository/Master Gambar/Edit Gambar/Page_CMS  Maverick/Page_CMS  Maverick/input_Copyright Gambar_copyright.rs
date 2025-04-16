@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Judul Gambar_title</name>
+   <name>input_Copyright Gambar_copyright</name>
    <tag></tag>
-   <elementGuidId>4e17e597-311c-4b45-85a6-67fdbee5cb04</elementGuidId>
+   <elementGuidId>d38ad0ca-953b-4819-b1ee-1e2d33ae9a27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='title']</value>
+         <key>CSS</key>
+         <value>#copyright</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#title</value>
+         <key>XPATH</key>
+         <value>//input[@id='copyright']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Isikan Judul Gambar...&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Isikan Copyright Gambar...&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed43a283-6c8e-43f5-a73a-ad4cd6969847</webElementGuid>
+      <webElementGuid>22e59f83-2861-4b3a-98fd-ece33afc40be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>title</value>
-      <webElementGuid>6f16e3f4-5d89-4629-bb57-c8ffe5ff1de0</webElementGuid>
+      <value>copyright</value>
+      <webElementGuid>9f03bba0-aa75-4862-8bd5-25501155302f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,62 +45,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>102f16a8-4f0b-4cc3-872d-4aaa2289675b</webElementGuid>
+      <webElementGuid>50cd59b6-d1e5-48d8-a6b1-186b8812ad06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>title</value>
-      <webElementGuid>b873ff8c-2472-4d97-af1f-40a61bdaee3a</webElementGuid>
+      <value>copyright</value>
+      <webElementGuid>b8c8a188-33db-45dd-b571-1646e59a3397</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Isikan Judul Gambar...</value>
-      <webElementGuid>c9d0c56a-7579-4c4f-8a4f-1994d5d84a1d</webElementGuid>
+      <value>Isikan Copyright Gambar...</value>
+      <webElementGuid>d343e053-b880-4f2e-ae6c-7eb374c58f81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>790baeef-539e-444a-b6c4-7c9ab49cfce4</webElementGuid>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>d5865eed-d6a5-4055-8cdf-de9730a47e4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title&quot;)</value>
-      <webElementGuid>1d06c31d-3b11-4188-b270-4ceb1583465d</webElementGuid>
+      <value>id(&quot;copyright&quot;)</value>
+      <webElementGuid>e1bed5f9-75a3-46bb-9ed1-375c816d4303</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='title']</value>
-      <webElementGuid>4fd9fb59-44ee-4216-a848-df43aa0cc839</webElementGuid>
+      <value>//input[@id='copyright']</value>
+      <webElementGuid>0af81b46-2540-4ee4-a6d2-67ea2c667a80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>b6304553-1619-41ad-bb14-c3de7a91e5ff</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>d25ce55f-c9a1-4b4c-9489-9428741734a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'title' and @type = 'text' and @name = 'title' and @placeholder = 'Isikan Judul Gambar...']</value>
-      <webElementGuid>dc744641-d302-4aa2-9413-49f6e048d363</webElementGuid>
+      <value>//input[@id = 'copyright' and @type = 'text' and @name = 'copyright' and @placeholder = 'Isikan Copyright Gambar...']</value>
+      <webElementGuid>1c491291-5ec9-4341-a0a9-a1285365600a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

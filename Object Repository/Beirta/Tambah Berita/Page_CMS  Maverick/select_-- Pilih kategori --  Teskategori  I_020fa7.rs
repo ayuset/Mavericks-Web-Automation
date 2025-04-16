@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih kategori --  Teskategori  I_020fa7</name>
+   <tag></tag>
+   <elementGuidId>6e3c0467-2752-4637-8909-16fe616f3a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;category_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='category_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8034db2a-ee66-4de6-ad06-839b828677e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>category_id</value>
+      <webElementGuid>dfd75930-95ea-41c0-b0c5-842373094123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-sm bg-white required ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>3996894d-9f90-430c-9336-e0a643012b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   -- Pilih kategori --     Teskategori     Ini kategori aja     Berita Nasional     Zona Kejaksaan     Spakul Spikul     Berita Trending     Liputan     Hot News     Multimedia     Serba-Serbi     Program Humanis Kejaksaan     Inovasi     Hot Issue     Kancah Internasional     Liputan Khusus     Momentum     Pencapaian     Penegakan Hukum Humanis     Agenda Pimpinan     Berita Utama </value>
+      <webElementGuid>fb3c4eed-faf9-4470-aad5-6938b5a2d05e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category_id&quot;)/div[@class=&quot;card card-body py-0&quot;]/div[@class=&quot;custom-select&quot;]/select[@class=&quot;form-control form-control-sm bg-white required ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>a1608e9e-fa73-4a5c-97cc-59ea33fa7d9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='category_id']</value>
+      <webElementGuid>5ac4486c-7065-4819-b9ff-f9cb5d0f1842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='category_id']/div/div/select</value>
+      <webElementGuid>173909ec-19a5-4394-86a9-4c40f1d3aee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kategori'])[1]/following::select[1]</value>
+      <webElementGuid>ae1371b5-b787-4323-8481-5f0228097348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih tag --'])[1]/following::select[1]</value>
+      <webElementGuid>1feecd96-bf64-4f4d-b462-87b81e6e2e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tipe konten'])[1]/preceding::select[1]</value>
+      <webElementGuid>f6e4f15a-e4ba-410d-910a-a2420c09570a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Homepage Pick'])[1]/preceding::select[2]</value>
+      <webElementGuid>98433c6c-c839-41f0-a996-63abb48f2510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1f27c0fa-f209-44cb-b42f-72fbfe3b594f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'category_id' and (text() = '   -- Pilih kategori --     Teskategori     Ini kategori aja     Berita Nasional     Zona Kejaksaan     Spakul Spikul     Berita Trending     Liputan     Hot News     Multimedia     Serba-Serbi     Program Humanis Kejaksaan     Inovasi     Hot Issue     Kancah Internasional     Liputan Khusus     Momentum     Pencapaian     Penegakan Hukum Humanis     Agenda Pimpinan     Berita Utama ' or . = '   -- Pilih kategori --     Teskategori     Ini kategori aja     Berita Nasional     Zona Kejaksaan     Spakul Spikul     Berita Trending     Liputan     Hot News     Multimedia     Serba-Serbi     Program Humanis Kejaksaan     Inovasi     Hot Issue     Kancah Internasional     Liputan Khusus     Momentum     Pencapaian     Penegakan Hukum Humanis     Agenda Pimpinan     Berita Utama ')]</value>
+      <webElementGuid>1af56524-31ea-4712-8163-a6c08fd13093</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

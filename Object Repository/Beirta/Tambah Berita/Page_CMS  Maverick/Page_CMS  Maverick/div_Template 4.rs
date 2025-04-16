@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Tambah</name>
+   <name>div_Template 4</name>
    <tag></tag>
-   <elementGuidId>6ff1237c-72b6-47dd-89c8-2069a39d6894</elementGuidId>
+   <elementGuidId>d8463d87-261c-4bd2-bd32-6edcebb361c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <value>//div[@id='staticBackdrop_1']/div/div/div[2]/div/div[4]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.modal-footer.text-right > button.btn.btn-primary</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Tambah&quot;i]</value>
+         <value>#staticBackdrop_1 > .modal-dialog > .modal-content > .modal-body > .row > div:nth-child(4) > .form-check</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>05972931-20d7-411a-8f91-2b24f07ca544</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>692cd8b1-f945-4c10-8428-9b02381dd7b4</webElementGuid>
+      <value>div</value>
+      <webElementGuid>a236b540-745d-4154-981a-fc7b70da86cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>dbf93311-6181-4500-a80b-b937eff4ae8f</webElementGuid>
+      <value>form-check</value>
+      <webElementGuid>086b0193-94ec-4618-96ea-2ffba43a0dea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tambah</value>
-      <webElementGuid>00195e07-8d78-46a0-b54c-17179e3a7415</webElementGuid>
+      <value> Template 4 </value>
+      <webElementGuid>c99b61ae-2b95-408c-83b7-4cc2ee1e788e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer text-right&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>d5f81d0f-3e28-48fa-b695-73db4b19d438</webElementGuid>
+      <value>id(&quot;staticBackdrop_1&quot;)/div[@class=&quot;modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;form-check&quot;]</value>
+      <webElementGuid>80949330-1859-4260-a621-f9b543a8627b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>cb7cf569-6168-4534-8362-0cd55fe05b19</webElementGuid>
+      <value>//div[@id='staticBackdrop_1']/div/div/div[2]/div/div[4]/div</value>
+      <webElementGuid>b5da3450-e8f9-440e-ba8b-3f549480e859</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>936d53f2-2341-4dcb-b550-51c3fc18411c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template 3'])[2]/following::div[2]</value>
+      <webElementGuid>f52345d6-5e63-4dec-9be9-5412522b649a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::button[2]</value>
-      <webElementGuid>dde26c4f-67d9-4ba9-a467-ca7148c662c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template 2'])[2]/following::div[5]</value>
+      <webElementGuid>45aa1cc5-e69b-444e-a192-3451c8848e33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
-      <webElementGuid>1b6a101f-5bf8-4f6f-91db-2500b0863241</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template 5'])[2]/preceding::div[2]</value>
+      <webElementGuid>6fc10a05-fb52-4a0f-8fbf-aa1335e9ad76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ngb-modal-window[2]/div/div/div[2]/button[2]</value>
-      <webElementGuid>9b3c2174-2063-475b-9773-cdac0a88a7ee</webElementGuid>
+      <value>//div[3]/div[2]/div/div/div/div/div[2]/div/div[4]/div</value>
+      <webElementGuid>e061f944-2683-458d-a188-bf9bd5404e56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Tambah' or . = ' Tambah')]</value>
-      <webElementGuid>89d5afcb-097e-4bde-a077-e8c226192cad</webElementGuid>
+      <value>//div[(text() = ' Template 4 ' or . = ' Template 4 ')]</value>
+      <webElementGuid>1e80d980-f671-47c3-81d6-41a02b247325</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

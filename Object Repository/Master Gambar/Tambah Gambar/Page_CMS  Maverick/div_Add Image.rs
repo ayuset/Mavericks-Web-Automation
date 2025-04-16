@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/ngb-modal-window/div/div/div[2]/app-form-image/form/div/div/div/div/div[1]/div/div[3]/div/app-modal-upload-image/div/div</value>
+         <value>/html/body/ngb-modal-window/div/div/div[2]/app-form-image/form/div/div/div/div/div[1]/div/div[3]/div/app-modal-upload-image/div/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c0cad72a-5c35-45a6-a1cf-e98fc5f55a8a</webElementGuid>
+      <webElementGuid>3e785f3d-484e-45ac-bd58-e025275d744d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>no-image</value>
-      <webElementGuid>98cf9909-9fe4-4bbf-a697-8eb2158665f7</webElementGuid>
+      <webElementGuid>bbe7e92d-4cc7-4b67-84e9-d620aa0198ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Image</value>
-      <webElementGuid>6d9608c3-40f7-415d-86c2-5c0bf14da0e3</webElementGuid>
+      <webElementGuid>9ca39313-4688-4732-a78e-d1400e9b14be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-form-image[1]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row align-items-center mb-3&quot;]/div[@class=&quot;col-md-9&quot;]/app-modal-upload-image[1]/div[@class=&quot;upload-image-container&quot;]/div[@class=&quot;image-picker&quot;]/div[@class=&quot;no-image&quot;]</value>
-      <webElementGuid>9414fc5a-6468-477c-b22b-4d0b43dcc8ce</webElementGuid>
+      <webElementGuid>f480bf83-5747-4541-8bc0-82ccec78dd39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gambar'])[1]/following::div[4]</value>
-      <webElementGuid>3d9ee927-4847-4474-8a77-5a4041d439f9</webElementGuid>
+      <webElementGuid>aec50339-8f08-44f2-869d-82ef5cba6325</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright Gambar'])[1]/following::div[6]</value>
-      <webElementGuid>444c5278-91d5-440a-9378-9039a6f218f3</webElementGuid>
+      <webElementGuid>3ac428ab-36ce-4ccf-811c-8af6a5abff07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Ukuran gambar : Maks : 1 MB'])[1]/preceding::div[1]</value>
-      <webElementGuid>34ad419e-f818-4368-8d26-0967e4361638</webElementGuid>
+      <webElementGuid>ad55a2c1-97f4-4cf2-9456-2dae3eb550e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Format gambar : .png, .jpg, .jpeg'])[1]/preceding::div[2]</value>
-      <webElementGuid>a843b127-4e37-4f39-be3f-04a0e90714b1</webElementGuid>
+      <webElementGuid>457326c0-a362-49dd-ae18-39fdbdbad9bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-modal-upload-image/div/div/div</value>
-      <webElementGuid>3d534ef9-1c08-4bbe-9107-b6586908415b</webElementGuid>
+      <webElementGuid>2d725e70-f33d-4246-ab49-edaf48324cd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Add Image' or . = 'Add Image')]</value>
-      <webElementGuid>c98870a6-b1c3-41ef-906b-7020b3b20a5a</webElementGuid>
+      <webElementGuid>3685252f-21a0-4cfe-bea8-7de2ab0c9a3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
