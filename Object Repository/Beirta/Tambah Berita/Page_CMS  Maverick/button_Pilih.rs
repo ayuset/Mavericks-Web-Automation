@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Pilih</name>
    <tag></tag>
-   <elementGuidId>601c0869-cf7f-4fe0-b6aa-96dcff19e32d</elementGuidId>
+   <elementGuidId>d44c6e57-c7e9-4813-afe8-d94da91599c1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

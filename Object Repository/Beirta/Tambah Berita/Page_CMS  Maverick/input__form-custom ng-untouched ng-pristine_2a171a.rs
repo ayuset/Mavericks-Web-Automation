@@ -6,19 +6,19 @@
    <elementGuidId>2aa845e7-3657-4683-bcfa-a9886358c3d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.form-custom.ng-untouched.ng-pristine.ng-valid</value>
+         <key>XPATH</key>
+         <value>//input[@name='searchTitleHeader']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@type='password']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;searchTitleHeader&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Password.....&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Cari gambar...&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,42 +29,74 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>96284b3d-09cd-483b-9266-56dc6c4d09df</webElementGuid>
+      <webElementGuid>30468d99-c25d-48a1-a93f-3198607d1177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Password.....</value>
-      <webElementGuid>40880a89-c7a1-4fe9-83d3-4fefdab49c8b</webElementGuid>
+      <value>Cari gambar...</value>
+      <webElementGuid>5384e8b6-e8bf-44ef-ae15-da70a580c7c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-custom ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>40c5e342-84a1-4794-a6ec-b6d68758faea</webElementGuid>
+      <value>form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>19581f5a-fb30-4e12-8d17-a44b26397a26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>fb7ccca7-0bc3-4fd3-95dd-f2918cc367e4</webElementGuid>
+      <value>text</value>
+      <webElementGuid>943a1065-583b-4799-953b-c99838e6e666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-login[1]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;row main-pages&quot;]/div[@class=&quot;col-12 d-flex justify-content-center align-items-center&quot;]/section[@class=&quot;form-section&quot;]/div[@class=&quot;content mt-5 mb-5&quot;]/div[@class=&quot;row shadow-lg&quot;]/div[@class=&quot;col-12 mb-3 px-4&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;position-relative d-flex align-items-center w-100&quot;]/input[@class=&quot;form-custom ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>3120695d-fce3-4732-90a8-89626ec0fdc3</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-flex column-gap-2 justify-content-end filterCard&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/input[@class=&quot;form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>fda6bda0-8b09-4661-b32c-16282835da06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>searchTitleHeader</value>
+      <webElementGuid>e5ba4000-d2ab-40e6-b397-220ac01dac9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='searchTitleHeader']</value>
+      <webElementGuid>625bf5bf-9878-449d-ae0e-a0ef0cf3b2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngb-modal-window[2]/div/div/div[2]/div/div/div[2]/input</value>
+      <webElementGuid>0511f4bd-af6a-4db4-8ca5-9edd79527c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari gambar...' and @name = 'searchTitleHeader']</value>
+      <webElementGuid>e08aa3b8-3d90-45d7-87a6-5637c9ec5b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

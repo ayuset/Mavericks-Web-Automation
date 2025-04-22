@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KategoriMaster GambarBeritaUser</name>
+   <tag></tag>
+   <elementGuidId>e46c1389-5f47-4723-918c-f0ebe2c668cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offcanvasScrolling']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.offcanvas-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;KategoriMaster GambarBeritaUser&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8491823a-6a7c-4f8b-8a91-c15886553163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>offcanvas-body</value>
+      <webElementGuid>3eacac2d-9096-42d4-9a56-1bdfcc3d2e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KategoriMaster GambarBeritaUser</value>
+      <webElementGuid>d707e2ea-462f-4984-a545-6a42aa995484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offcanvasScrolling&quot;)/div[@class=&quot;offcanvas-body&quot;]</value>
+      <webElementGuid>812d52c9-0954-435e-9e54-52bf44075883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offcanvasScrolling']/div</value>
+      <webElementGuid>6d2dfdd2-81c2-44a1-922f-404d99e6540e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[5]</value>
+      <webElementGuid>1c9b6416-2d11-416a-a4a4-6f5b47844df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tag'])[1]/following::div[5]</value>
+      <webElementGuid>933af03e-104a-4023-b58f-d87e0140a1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div</value>
+      <webElementGuid>4e239116-3598-4df4-81b2-5d8f07cbae8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KategoriMaster GambarBeritaUser' or . = 'KategoriMaster GambarBeritaUser')]</value>
+      <webElementGuid>7d2cde38-ce53-4844-bb66-4d526d383702</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

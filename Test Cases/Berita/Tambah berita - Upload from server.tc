@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah berita - Upload from server</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>193498d7-91b8-439e-ab93-5ae97ba692d2</testCaseGuid>
+</TestCaseEntity>

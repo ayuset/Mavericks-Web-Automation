@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Upload gambar</name>
+   <name>button_Preview</name>
    <tag></tag>
-   <elementGuidId>777f80c7-7e1b-4bfc-af90-3f11800a348d</elementGuidId>
+   <elementGuidId>8fcf482f-4a0e-4928-bc79-bfd7f9a5dfa5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>(//button[@type='submit'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-outline-primary.d-flex.column-gap-2.mt-2</value>
+         <value>button.btn.btn-bd-preview.text-center.text-black</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Upload gambar$/ >> internal:role=button</value>
+         <value>internal:role=button[name=&quot;Preview&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>be9def44-d387-4058-bed7-c8a38c4d794a</webElementGuid>
+      <webElementGuid>c9a2fbc3-540f-4793-aac4-f255dbd9e8ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>70a6258c-4795-42e3-9433-e26d38a8681b</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>e34c15e4-84a4-4c9f-bc6b-dc16b0f5324b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-outline-primary d-flex column-gap-2 mt-2</value>
-      <webElementGuid>3c071a06-17e9-4f9b-afbc-9a6d31fcdea8</webElementGuid>
+      <value>btn btn-bd-preview text-center text-black</value>
+      <webElementGuid>18be9e6b-f2ce-4f73-afb9-237033ee790d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Upload gambar</value>
-      <webElementGuid>49429599-d2f0-49ac-9e16-9307b780d689</webElementGuid>
+      <value>Preview</value>
+      <webElementGuid>81a28815-4d7d-4d3a-9248-15c11f623885</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white border&quot;]/div[@class=&quot;my-3&quot;]/div[1]/button[@class=&quot;btn btn-outline-primary d-flex column-gap-2 mt-2&quot;]</value>
-      <webElementGuid>304e345d-1d75-40a1-b610-a79d95bf6e74</webElementGuid>
+      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 py-3&quot;]/div[@class=&quot;row row-gap-2&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-bd-preview text-center text-black&quot;]</value>
+      <webElementGuid>dd09ebb5-b5b0-4dd9-98b3-30a3f1094b65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>b09ea5e7-47c5-485c-aab2-bc8c0b05eea2</webElementGuid>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>9d6aa7ac-a72e-4a39-92c4-e2413081967f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='newsForm']/div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>59f0076d-7885-43f1-b60d-fc1c44c0c5c6</webElementGuid>
+      <value>//form[@id='newsForm']/div/div/div[2]/div/div[4]/button</value>
+      <webElementGuid>391e2822-88dd-440c-93fb-1fbd4512d323</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Format gambar : .png, .jpg, .jpeg'])[1]/following::button[1]</value>
-      <webElementGuid>300094ca-a019-40af-8daf-a54c3341b2f0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan &amp; Publish'])[1]/following::button[1]</value>
+      <webElementGuid>68bdef92-8c30-4d06-80b8-4b7be11db71a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Ukuran gambar : 1080px x 1920px (9:16) | Maks : 1 MB'])[1]/following::button[1]</value>
-      <webElementGuid>37c02839-c9cc-4a85-8b2d-16695ff98ec0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::button[2]</value>
+      <webElementGuid>4ca7b985-65f2-4143-a467-3655fb9e3ebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section 1 (Default)'])[1]/preceding::button[1]</value>
-      <webElementGuid>135d9878-2769-481f-ae02-4ab935cae469</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setelan'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9b48967-012c-447b-8222-3a0a1733be1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>d82b0b61-1575-47a0-bcd2-91fc5281d107</webElementGuid>
+      <value>//div[2]/div/div[4]/button</value>
+      <webElementGuid>d6cbbc36-f44d-4c54-802a-394552ed4293</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Upload gambar' or . = 'Upload gambar')]</value>
-      <webElementGuid>fc8d4124-c553-47d6-a50a-e8af7f7663d1</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Preview' or . = 'Preview')]</value>
+      <webElementGuid>0480e6b2-b8c4-4d06-8365-afb7c4871c57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

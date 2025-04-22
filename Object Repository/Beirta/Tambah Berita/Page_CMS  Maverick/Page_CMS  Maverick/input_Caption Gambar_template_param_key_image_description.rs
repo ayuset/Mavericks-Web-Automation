@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Caption Gambar_template_param_key_image_description</name>
+   <tag></tag>
+   <elementGuidId>8138644d-1d99-4c89-8939-03129b1502c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id=' template_param_key_image_description'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Isikan Caption...&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cd722e05-9e1a-4299-b4ac-1275ebcfea7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>38a4e236-025f-4a36-9ec3-7f6cbf39c92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value> template_param_key_image_description</value>
+      <webElementGuid>27347582-9cba-41fc-9ef0-8df8471fa6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>template_param_key_image_description</value>
+      <webElementGuid>638d1e67-4a0b-4a05-9da7-dc6b3953a24a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Isikan Caption...</value>
+      <webElementGuid>011e71e7-9dd6-42db-9804-3a7a99340ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control rounded ng-touched ng-dirty ng-valid</value>
+      <webElementGuid>d32cb195-ede5-4ec0-8a50-7eb9a2fc2a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white mt-3 border section-news&quot;]/div[@class=&quot;my-3&quot;]/div[@class=&quot;mt-2&quot;]/input[@id=&quot; template_param_key_image_description&quot;]</value>
+      <webElementGuid>e4443b81-0cd9-474c-87ca-43540e2a13db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id=' template_param_key_image_description'])[2]</value>
+      <webElementGuid>907380f1-a541-4811-aba7-9980f3658e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='newsForm']/div/div/div/div[4]/div[4]/div/input</value>
+      <webElementGuid>fb7daec6-72a5-4547-8cbf-4d474a046d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div/input</value>
+      <webElementGuid>37981dbe-592f-4fea-9e2e-76230d600f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = ' template_param_key_image_description' and @name = 'template_param_key_image_description' and @placeholder = 'Isikan Caption...']</value>
+      <webElementGuid>bff09b1a-0fce-4edf-b07b-a31238c93450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

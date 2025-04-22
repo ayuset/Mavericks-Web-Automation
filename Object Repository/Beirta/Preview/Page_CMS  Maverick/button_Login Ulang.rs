@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Ya</name>
+   <name>button_Login Ulang</name>
    <tag></tag>
-   <elementGuidId>eb8c2242-ae4f-4039-b332-ae642f440102</elementGuidId>
+   <elementGuidId>f182c500-ae94-4a68-98e0-4dfa4c1b3ca3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/div/div[6]/button[1]</value>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Ya!&quot;i]</value>
+         <value>internal:role=button[name=&quot;Login Ulang&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9536e2c7-da27-4f86-90b9-aacea6865eeb</webElementGuid>
+      <webElementGuid>5d6e341f-93b2-43ba-b900-fa2608da2294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e290b844-75ba-4c72-9731-0884fc091499</webElementGuid>
+      <webElementGuid>e6d5a067-6a9b-4f97-91b4-061136a27269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-confirm swal2-styled swal2-default-outline</value>
-      <webElementGuid>1839c410-842c-4cbd-b348-7f472b1517ab</webElementGuid>
+      <webElementGuid>a6a39186-c090-4da1-9a38-a613811c646e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ya</value>
-      <webElementGuid>7597168a-1b8c-4706-a3cf-45cb59a1a75a</webElementGuid>
+      <value>Login Ulang</value>
+      <webElementGuid>0686d385-01e4-4cca-a91e-848658bbe30d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,31 +61,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-warning swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled swal2-default-outline&quot;]</value>
-      <webElementGuid>9762d81d-aea8-46c2-a9a3-f448cca18615</webElementGuid>
+      <webElementGuid>a6c17731-06dc-43e5-af17-c4e730fbca80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[25]</value>
-      <webElementGuid>2ee4dfc5-eb8c-4c95-85c3-e98dcce0b399</webElementGuid>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>9f101bc9-52ac-40c5-b353-ac6026d69129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan perubahan dan publish berita?'])[1]/following::button[1]</value>
-      <webElementGuid>580c9d22-b069-4bf2-b9d6-9fb8204685f3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silahkan login terlebih dahulu. The token could not be parsed from the request'])[1]/following::button[1]</value>
+      <webElementGuid>2b3631cd-4f34-4c1a-8e44-3560630e5629</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[1]/following::button[1]</value>
-      <webElementGuid>9c5ec15d-8be9-476a-94f0-153b6b094d96</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ooops'])[1]/following::button[1]</value>
+      <webElementGuid>216c3627-490f-4e77-b71b-3cab811d2fe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,78 +93,38 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
-      <webElementGuid>570ddcdf-554a-4b35-a0f2-69c4fc6b09a4</webElementGuid>
+      <webElementGuid>fa752180-e8d2-460d-9652-5280b29248b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[2]</value>
-      <webElementGuid>8ea14ee5-d235-4ffc-8a0f-87ecd83c968c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[2]</value>
+      <webElementGuid>c37baeed-56fa-4c9e-8ed5-cbd301bc0e45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ya!']/parent::*</value>
-      <webElementGuid>6a5c347e-5919-4777-8b1f-6c87d53c7612</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Login Ulang']/parent::*</value>
+      <webElementGuid>ab79d568-f970-4711-923d-2220963a9ffd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div[6]/button</value>
-      <webElementGuid>8f10533a-dadb-4530-9f0f-2228117c2934</webElementGuid>
+      <value>//div[6]/button</value>
+      <webElementGuid>ce5355ac-36cd-4a84-b187-3069efe002df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ya!' or . = 'Ya!')]</value>
-      <webElementGuid>e1a797c9-23a0-4da2-861e-f90c6974c872</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[52]</value>
-      <webElementGuid>aa1443ef-aa7a-4efb-8c4d-8eeb2d3ee774</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan berita sebagai draft?'])[1]/following::button[1]</value>
-      <webElementGuid>89a8bcdd-176a-4ca3-bfb1-06ff750af50a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
-      <webElementGuid>cc876c2b-293d-46ac-bb26-ed212e9143ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/div/div[6]/button</value>
-      <webElementGuid>0f605f0a-a7f0-4171-a129-52dc92e1fc8d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ya' or . = 'Ya')]</value>
-      <webElementGuid>548b56f2-4a31-4a2a-a056-6e52d176c184</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Login Ulang' or . = 'Login Ulang')]</value>
+      <webElementGuid>f93d8fdc-7726-42cf-a888-692565f3bac0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Ya</name>
    <tag></tag>
-   <elementGuidId>eb8c2242-ae4f-4039-b332-ae642f440102</elementGuidId>
+   <elementGuidId>cbb7befe-3cc6-41d3-a02d-8ef0f42b193f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/div/div[6]/button[1]</value>
+         <value>(//button[@type='button'])[36]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9536e2c7-da27-4f86-90b9-aacea6865eeb</webElementGuid>
+      <webElementGuid>f4d405c5-2e9e-4d0f-bca2-554ebdd3bb77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e290b844-75ba-4c72-9731-0884fc091499</webElementGuid>
+      <webElementGuid>05e2fbee-6ecf-431f-bf41-d34c96ab785a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-confirm swal2-styled swal2-default-outline</value>
-      <webElementGuid>1839c410-842c-4cbd-b348-7f472b1517ab</webElementGuid>
+      <webElementGuid>fe94cbf7-4e18-499e-a505-4a99d39e393f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ya</value>
-      <webElementGuid>7597168a-1b8c-4706-a3cf-45cb59a1a75a</webElementGuid>
+      <value>Ya!</value>
+      <webElementGuid>09da9cd4-68c8-47a2-b6a9-98959caf84b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +61,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-warning swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled swal2-default-outline&quot;]</value>
-      <webElementGuid>9762d81d-aea8-46c2-a9a3-f448cca18615</webElementGuid>
+      <webElementGuid>738a69e5-da37-47fc-a87a-6a0d771f4bf1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[25]</value>
-      <webElementGuid>2ee4dfc5-eb8c-4c95-85c3-e98dcce0b399</webElementGuid>
+      <value>(//button[@type='button'])[36]</value>
+      <webElementGuid>9c1b2ee1-1aa8-4527-9eac-5b9a8177a58b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan perubahan dan publish berita?'])[1]/following::button[1]</value>
-      <webElementGuid>580c9d22-b069-4bf2-b9d6-9fb8204685f3</webElementGuid>
+      <webElementGuid>ebc3ee99-de72-4070-81e2-6f8b9bc9b745</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[1]/following::button[1]</value>
-      <webElementGuid>9c5ec15d-8be9-476a-94f0-153b6b094d96</webElementGuid>
+      <webElementGuid>687d776a-b755-4bf1-b0a9-298ccdc3df26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
-      <webElementGuid>570ddcdf-554a-4b35-a0f2-69c4fc6b09a4</webElementGuid>
+      <webElementGuid>d7763092-be00-4d84-bd9b-f9494e26df00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[2]</value>
-      <webElementGuid>8ea14ee5-d235-4ffc-8a0f-87ecd83c968c</webElementGuid>
+      <webElementGuid>8e52d3ce-9102-47d2-adf4-76359cdbe597</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,47 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ya!']/parent::*</value>
-      <webElementGuid>6a5c347e-5919-4777-8b1f-6c87d53c7612</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/div[6]/button</value>
-      <webElementGuid>8f10533a-dadb-4530-9f0f-2228117c2934</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ya!' or . = 'Ya!')]</value>
-      <webElementGuid>e1a797c9-23a0-4da2-861e-f90c6974c872</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[52]</value>
-      <webElementGuid>aa1443ef-aa7a-4efb-8c4d-8eeb2d3ee774</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan berita sebagai draft?'])[1]/following::button[1]</value>
-      <webElementGuid>89a8bcdd-176a-4ca3-bfb1-06ff750af50a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
-      <webElementGuid>cc876c2b-293d-46ac-bb26-ed212e9143ae</webElementGuid>
+      <webElementGuid>4ca5d682-f6a6-4ce0-8b19-c904e3732a20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,14 +117,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[6]/button</value>
-      <webElementGuid>0f605f0a-a7f0-4171-a129-52dc92e1fc8d</webElementGuid>
+      <webElementGuid>df3dc762-6359-41a8-b6c0-291c2b5fefbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ya' or . = 'Ya')]</value>
-      <webElementGuid>548b56f2-4a31-4a2a-a056-6e52d176c184</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Ya!' or . = 'Ya!')]</value>
+      <webElementGuid>00598d76-3986-43a2-bc9a-2f06bfbf3143</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

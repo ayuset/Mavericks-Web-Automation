@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Guru BesarStory Kejaksaan</name>
+   <tag></tag>
+   <elementGuidId>cab89a7f-c929-41b2-a101-5b1576d45e53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='overlay-action-31']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#overlay-action-31</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Guru BesarStory Kejaksaan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d6c03fa-9b7f-40b3-9555-3cadb52324dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>overlay-action-31</value>
+      <webElementGuid>5f1a337d-5ae2-4e8a-99fb-f7fa59d4248c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bankImageItemSelected</value>
+      <webElementGuid>3378c2b7-7ab3-42f9-8b1c-4879d2c76aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guru BesarStory Kejaksaan</value>
+      <webElementGuid>0efd4961-8bbf-4459-b333-a4d91c2296f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overlay-action-31&quot;)</value>
+      <webElementGuid>77e74346-e8f5-4396-ac30-c64b79d8c410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='overlay-action-31']</value>
+      <webElementGuid>2d6cc812-2606-46b5-aa7f-6d8a48ec5598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar master gambar'])[1]/following::div[12]</value>
+      <webElementGuid>73febf1e-4b11-4707-a253-558b9db642d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih gambar header'])[1]/following::div[22]</value>
+      <webElementGuid>d0809b0b-a899-494b-822e-aaf223e8eb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div</value>
+      <webElementGuid>b1ec2251-4c46-4456-bb91-26d3317db98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'overlay-action-31' and (text() = 'Guru BesarStory Kejaksaan' or . = 'Guru BesarStory Kejaksaan')]</value>
+      <webElementGuid>e8c8ec58-98c1-487a-b49e-1fd68f59a0e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

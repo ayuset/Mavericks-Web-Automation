@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit berita</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e363a7ec-ad99-4ee6-8be9-d5a9ebce1b3a</testCaseGuid>
+</TestCaseEntity>

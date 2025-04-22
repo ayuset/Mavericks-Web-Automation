@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Upload gambar</name>
+   <name>button_Pilih</name>
    <tag></tag>
-   <elementGuidId>777f80c7-7e1b-4bfc-af90-3f11800a348d</elementGuidId>
+   <elementGuidId>d3599c48-5844-4adb-b38a-e0a8c1771ff2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>(//button[@type='button'])[28]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-outline-primary.d-flex.column-gap-2.mt-2</value>
+         <value>ngb-modal-window.d-block.modal.fade.show > div.modal-dialog.modal-dialog-centered.modal-dialog-scrollable.modal-xl > div.modal-content > div.modal-footer > button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Upload gambar$/ >> internal:role=button</value>
+         <value>internal:role=button[name=&quot;Pilih&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>be9def44-d387-4058-bed7-c8a38c4d794a</webElementGuid>
+      <webElementGuid>a379b227-84d0-4e58-829d-ae5a15507b33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,86 +37,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>70a6258c-4795-42e3-9433-e26d38a8681b</webElementGuid>
+      <webElementGuid>c63d53f1-ff03-4a41-8877-5a8fbe9948ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>b19b1103-a520-4e25-9799-1df58455d02d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-outline-primary d-flex column-gap-2 mt-2</value>
-      <webElementGuid>3c071a06-17e9-4f9b-afbc-9a6d31fcdea8</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>436e8b6c-39c7-456d-9af3-ddecb60dbc67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Upload gambar</value>
-      <webElementGuid>49429599-d2f0-49ac-9e16-9307b780d689</webElementGuid>
+      <value>Pilih</value>
+      <webElementGuid>00ce51e5-2e15-47ea-8d21-0dac1d39bae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white border&quot;]/div[@class=&quot;my-3&quot;]/div[1]/button[@class=&quot;btn btn-outline-primary d-flex column-gap-2 mt-2&quot;]</value>
-      <webElementGuid>304e345d-1d75-40a1-b610-a79d95bf6e74</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>4c8b9fb6-0ad1-4129-a205-654aae9be7eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>b09ea5e7-47c5-485c-aab2-bc8c0b05eea2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='newsForm']/div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>59f0076d-7885-43f1-b60d-fc1c44c0c5c6</webElementGuid>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>db92d1fb-dfac-42ed-90c5-07832deb4e28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Format gambar : .png, .jpg, .jpeg'])[1]/following::button[1]</value>
-      <webElementGuid>300094ca-a019-40af-8daf-a54c3341b2f0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[3]/following::button[1]</value>
+      <webElementGuid>b62adbb2-1bfb-4df4-9800-ad48fc3b8cb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Ukuran gambar : 1080px x 1920px (9:16) | Maks : 1 MB'])[1]/following::button[1]</value>
-      <webElementGuid>37c02839-c9cc-4a85-8b2d-16695ff98ec0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pospenkum'])[1]/following::button[2]</value>
+      <webElementGuid>c51e051f-8ef3-4a25-9f47-55570a9a5de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section 1 (Default)'])[1]/preceding::button[1]</value>
-      <webElementGuid>135d9878-2769-481f-ae02-4ab935cae469</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[2]/preceding::button[1]</value>
+      <webElementGuid>1bb78771-cab6-480e-9c2c-d510ac6e34a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April'])[2]/preceding::button[1]</value>
+      <webElementGuid>234c060c-e635-4d56-9800-63321ec16894</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>d82b0b61-1575-47a0-bcd2-91fc5281d107</webElementGuid>
+      <value>//ngb-modal-window[2]/div/div/div[3]/button[2]</value>
+      <webElementGuid>d5c6d4a9-fac8-4eb1-921c-f4232edc512e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Upload gambar' or . = 'Upload gambar')]</value>
-      <webElementGuid>fc8d4124-c553-47d6-a50a-e8af7f7663d1</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Pilih' or . = 'Pilih')]</value>
+      <webElementGuid>5ba89484-3cea-4d97-9e43-71b9cfab8244</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

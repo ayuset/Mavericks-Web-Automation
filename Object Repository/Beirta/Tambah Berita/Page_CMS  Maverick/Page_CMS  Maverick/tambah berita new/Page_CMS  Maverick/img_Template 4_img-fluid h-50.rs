@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Template 4_img-fluid h-50</name>
+   <tag></tag>
+   <elementGuidId>58689d0f-9db5-44a4-a9ee-ad281be3fb7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='staticBackdrop_1']/div/div/div[2]/div/div[4]/div/label/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#staticBackdrop_1 label >> internal:has-text=&quot;Template 4&quot;i >> internal:attr=[alt=&quot;img template&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>13c521d0-1797-4bf6-9f44-21cf43ea4fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>img template</value>
+      <webElementGuid>41ff1d08-fd8f-4aa2-bade-b86f754b50b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid h-50</value>
+      <webElementGuid>bd5f43d5-0ea0-4ae7-bcce-d52a8a5162b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/images/template4.png</value>
+      <webElementGuid>dfbc91fd-f4bf-4ad7-bf04-12705105ff22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;staticBackdrop_1&quot;)/div[@class=&quot;modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label text-capitalize&quot;]/div[@class=&quot;w-100 h-50&quot;]/img[@class=&quot;img-fluid h-50&quot;]</value>
+      <webElementGuid>76f00846-22d9-44f6-b3e1-6e8d07a4bcf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='staticBackdrop_1']/div/div/div[2]/div/div[4]/div/label/div/img</value>
+      <webElementGuid>bf3b5df0-6261-4b8b-8d39-270ac0026f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='img template'])[29]</value>
+      <webElementGuid>bcb6ccf0-f13a-4093-b53a-2820cb4cbf88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div[2]/div/div[4]/div/label/div/img</value>
+      <webElementGuid>26038775-6f24-4f69-8f43-6f85b7731e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'img template' and @src = './assets/images/template4.png']</value>
+      <webElementGuid>00d2acfb-9f8c-4f80-b472-a87f8a1a0cbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -46,12 +46,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'ini paragraf'</initValue>
+      <initValue>'testing'</initValue>
       <name>isi_konten</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Kejagung Geledah Pertamina Pelumpang, Sita 17 Boks Kontainer'</initValue>
+      <initValue>'Kejagung automation'</initValue>
       <name>isi_judul_template</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -63,5 +63,20 @@
       <description></description>
       <initValue>'Google'</initValue>
       <name>copyright</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'periksa jaksa agung'</initValue>
+      <name>isi_judul_template_edit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'source google'</initValue>
+      <name>copyright_template</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Beirta/Preview/Page_CMS  Maverick/Page_CMS  Maverick/section_Ini berita coba isi konten         _5e36ff')</initValue>
+      <name>scroll_template</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

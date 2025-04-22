@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Upload gambar</name>
+   <name>button_Ya</name>
    <tag></tag>
-   <elementGuidId>777f80c7-7e1b-4bfc-af90-3f11800a348d</elementGuidId>
+   <elementGuidId>ead22950-3dda-4cc8-af3c-e7e84f152868</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>(//button[@type='button'])[52]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-outline-primary.d-flex.column-gap-2.mt-2</value>
+         <value>button.swal2-confirm.swal2-styled.swal2-default-outline</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Upload gambar$/ >> internal:role=button</value>
+         <value>internal:role=button[name=&quot;Ya&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>be9def44-d387-4058-bed7-c8a38c4d794a</webElementGuid>
+      <webElementGuid>179d0b1b-559c-4e0c-8bd8-c87755824893</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,86 +37,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>70a6258c-4795-42e3-9433-e26d38a8681b</webElementGuid>
+      <webElementGuid>f8a4ba3b-defe-49da-90b4-6a6918003593</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-outline-primary d-flex column-gap-2 mt-2</value>
-      <webElementGuid>3c071a06-17e9-4f9b-afbc-9a6d31fcdea8</webElementGuid>
+      <value>swal2-confirm swal2-styled swal2-default-outline</value>
+      <webElementGuid>a6f553a9-6ac2-4b72-9dc7-cf71dfec64e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Upload gambar</value>
-      <webElementGuid>49429599-d2f0-49ac-9e16-9307b780d689</webElementGuid>
+      <value>Ya</value>
+      <webElementGuid>13530901-a150-45b2-bd09-6fd0216ca99e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;newsForm&quot;)/div[@class=&quot;container-fluid py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;p-3 shadow rounded bg-white border&quot;]/div[@class=&quot;my-3&quot;]/div[1]/button[@class=&quot;btn btn-outline-primary d-flex column-gap-2 mt-2&quot;]</value>
-      <webElementGuid>304e345d-1d75-40a1-b610-a79d95bf6e74</webElementGuid>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-warning swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled swal2-default-outline&quot;]</value>
+      <webElementGuid>addbefcd-abf8-4046-b4eb-30f89be506d5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>b09ea5e7-47c5-485c-aab2-bc8c0b05eea2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='newsForm']/div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>59f0076d-7885-43f1-b60d-fc1c44c0c5c6</webElementGuid>
+      <value>(//button[@type='button'])[52]</value>
+      <webElementGuid>123932f6-e6b7-467d-ad07-1320bb30c406</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Format gambar : .png, .jpg, .jpeg'])[1]/following::button[1]</value>
-      <webElementGuid>300094ca-a019-40af-8daf-a54c3341b2f0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan berita sebagai draft?'])[1]/following::button[1]</value>
+      <webElementGuid>784937b5-5d5a-4109-ade0-c9ce1d938a5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Ukuran gambar : 1080px x 1920px (9:16) | Maks : 1 MB'])[1]/following::button[1]</value>
-      <webElementGuid>37c02839-c9cc-4a85-8b2d-16695ff98ec0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[1]/following::button[1]</value>
+      <webElementGuid>884ea8c1-1e34-4830-8b8d-7644604d58b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section 1 (Default)'])[1]/preceding::button[1]</value>
-      <webElementGuid>135d9878-2769-481f-ae02-4ab935cae469</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>18c3a3d2-7b50-4ba3-82de-363b07a2d523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[2]</value>
+      <webElementGuid>77520655-eb49-4fa2-b94f-987966e33cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
+      <webElementGuid>3d1fb3a4-bfd5-4ff6-9f78-e059a5c9c28d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>d82b0b61-1575-47a0-bcd2-91fc5281d107</webElementGuid>
+      <value>//div[4]/div/div[6]/button</value>
+      <webElementGuid>f03fdbaf-6104-45a2-865e-c2ed2fb0af34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Upload gambar' or . = 'Upload gambar')]</value>
-      <webElementGuid>fc8d4124-c553-47d6-a50a-e8af7f7663d1</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>ce7ee2dc-2e87-4fcc-af10-7ce08feddeee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
