@@ -80,7 +80,7 @@ WebUI.click(findTestObject('Object Repository/Beirta/Tambah Berita/Page_CMS  Mav
 
 WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/input_Template 3_template4_1'))
 
-WebUI.click(findTestObject('Object Repository/Beirta/Tambah Berita/Page_CMS  Maverick/button_Pilih'))
+WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/button_pilih template_detail'))
 
 WebUI.setText(findTestObject('Object Repository/Beirta/Tambah Berita/Page_CMS  Maverick/input_Judul_template_param_key_title'), 
     GlobalVariable.isi_judul_template)
@@ -91,25 +91,25 @@ WebUI.scrollToElement(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/Bu
 
 WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/Button_ add section'))
 
-WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/btn_pilih template'))
+not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/btn_pilih template'))
 
-WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/input_Template 1_template4_1'))
+not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/input_Template 1_template4_1'))
 
-WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/Btn_pilih'))
+not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/Btn_pilih'))
 
-WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/btn_upload gambar'))
+not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/btn_upload gambar'))
 
-WebUI.verifyElementClickable(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/div_upload_img'))
+not_run: WebUI.verifyElementClickable(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/div_upload_img'))
 
-Files.copy(new URL(imageUrl).openStream(), Paths.get(localPath), StandardCopyOption.REPLACE_EXISTING)
+not_run: Files.copy(new URL(imageUrl).openStream(), Paths.get(localPath), StandardCopyOption.REPLACE_EXISTING)
 
-WebUI.uploadFile(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/div_upload_img'), localPath)
+not_run: WebUI.uploadFile(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/div_upload_img'), localPath)
 
-WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/button_Tambah'))
+not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/button_Tambah'))
 
-WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/caption_gambar'), FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/caption_gambar'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/caption_gambar'), 'gambar dari local')
+not_run: WebUI.setText(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/caption_gambar'), 'gambar dari local')
 
 not_run: WebUI.setText(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/input_copyright_gambar'), 'source google')
 

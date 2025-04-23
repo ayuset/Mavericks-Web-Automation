@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;template46_2&quot;]</value>
+         <value>//input[@id=&quot;template46_1&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>df3f55f8-72ee-472a-bcd6-998c17353de4</webElementGuid>
+      <webElementGuid>3f9ae0dc-d38e-475c-96ac-2547ca496146</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>b99ff9b6-f8ad-482f-b09c-43598b63be3e</webElementGuid>
+      <webElementGuid>0cf8d62e-ecf4-4cf2-9b86-244c9e2343f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>e98d67de-7c51-4174-b617-0118383738ee</webElementGuid>
+      <webElementGuid>90126aa7-0cb8-4572-87cf-f46af5fb7448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>template4_1</value>
-      <webElementGuid>c3113f35-3094-4c38-88e1-cdf321306f3f</webElementGuid>
+      <webElementGuid>dab6e46a-57d7-4f24-a767-af09fe5833b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;template4_1&quot;)</value>
-      <webElementGuid>2bd37c8f-7f9c-46d0-9108-fb65017e6760</webElementGuid>
+      <webElementGuid>6469def5-46d1-4d21-b55a-32241ddd9da7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='template4_1']</value>
-      <webElementGuid>e34dc5f3-8d28-400a-98b9-a7b97dda1435</webElementGuid>
+      <webElementGuid>065286ce-46fe-4aff-9729-36df979715a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='staticBackdrop_1']/div/div/div[2]/div/div[4]/div/input</value>
-      <webElementGuid>f89bb2cf-fb08-4d3d-b4aa-466b5de4bcbc</webElementGuid>
+      <webElementGuid>5101adfe-bb46-4e27-816b-971c5d754c2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/div/div[2]/div/div[4]/div/input</value>
-      <webElementGuid>a981d9d7-228f-4847-b820-24b12b790336</webElementGuid>
+      <webElementGuid>c3b435b0-e57d-41e4-a5b7-8e29fdf59a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'template4_1']</value>
-      <webElementGuid>a35a72a4-2eed-42c6-8cb8-0c1b13e1e78c</webElementGuid>
+      <webElementGuid>7c16b831-7018-400d-8777-0ccfe36dec8b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

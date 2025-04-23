@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[52]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan berita sebagai draft?'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

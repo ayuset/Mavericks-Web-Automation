@@ -6,12 +6,11 @@
    <elementGuidId>839d05b2-17eb-42b3-9922-97ef591cc778</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(6) > button.btn.block.col-md-12.text-start.px-0.d-flex > svg.rotate-icon > path</value>
+         <key>XPATH</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>div:nth-of-type(6) > button.btn.block.col-md-12.text-start.px-0.d-flex > svg.rotate-icon > path</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
          <value>internal:role=button[name=&quot;tipe konten&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

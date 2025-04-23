@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>caption_gambar</name>
+   <name>button_pilih template_detail</name>
    <tag></tag>
-   <elementGuidId>cb5ec52b-19c5-4092-8855-1f2e4257e7fd</elementGuidId>
+   <elementGuidId>4308f1bd-5513-4bb6-92ee-e7cd6994232d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id=' template_param_key_image_description'])[2]</value>
+         <value>//*[@id=&quot;staticBackdrop_1&quot;]/div/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

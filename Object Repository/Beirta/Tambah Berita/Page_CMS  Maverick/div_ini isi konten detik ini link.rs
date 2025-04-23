@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini berita coba isi konten'])[2]/following::div[13]</value>
+         <value>//div/div[2]/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>

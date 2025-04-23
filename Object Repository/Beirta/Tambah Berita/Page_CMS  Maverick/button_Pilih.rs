@@ -7,7 +7,8 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;staticBackdrop_1&quot;]/div/div/div[3]/button[2]</value>
+         <value>/html/body/ngb-modal-window[2]/div/div/div[3]/button[2]&#xd;
+</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>479ec45e-a2e2-443e-b498-86e35547556a</webElementGuid>
+      <webElementGuid>eba0ab27-b409-435a-a2d4-f9916ccd1d99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>09d2445e-e351-4313-a8b9-4d2d83f99d81</webElementGuid>
+      <webElementGuid>78b6cf35-62db-43e3-a104-5587c7d78e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>data-bs-dismiss</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>848bd352-38a4-4ad7-aef5-eca685af820d</webElementGuid>
+      <webElementGuid>af620990-011f-41b5-88be-edf1c09503d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>9e0d5104-08c7-4750-b196-bf11cb64c9c6</webElementGuid>
+      <webElementGuid>2261e5b7-1b1d-4f3e-83a4-2882958e4678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih</value>
-      <webElementGuid>1ee9e445-7bb0-46c2-8068-7d045f0ebbfb</webElementGuid>
+      <webElementGuid>430fa22e-a350-4617-9f78-0f59ce31482f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>d7beeb97-8832-4536-8827-fe59f56322c8</webElementGuid>
+      <webElementGuid>3eb339bf-3979-411a-99d2-72dbd1b2a22e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[44]</value>
-      <webElementGuid>3821ac24-49ca-49f0-a51e-34e1bea9ae0f</webElementGuid>
+      <webElementGuid>6a843ccc-ed74-4730-8022-5e6732fea2ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[5]/following::button[1]</value>
-      <webElementGuid>a2e93fc7-42ec-45b3-9286-214a6604d183</webElementGuid>
+      <webElementGuid>481e6a52-d813-4722-adc6-c7d68b6bbcb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pospenkum'])[1]/following::button[2]</value>
-      <webElementGuid>6fd79aec-9e4d-49cc-a5be-e753048df9dd</webElementGuid>
+      <webElementGuid>8dfcafdf-1312-44a2-b39a-1e9030e5693c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[2]/preceding::button[1]</value>
-      <webElementGuid>6632b0d9-e33a-41b3-8fbe-7349b67d6ec4</webElementGuid>
+      <webElementGuid>a70a5d63-0f94-458f-b549-20919dece215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='April'])[2]/preceding::button[1]</value>
-      <webElementGuid>8c7b2d23-7837-4048-a2bb-3378e2c89508</webElementGuid>
+      <webElementGuid>47f435d8-5b0f-4893-ab22-aec20275e973</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ngb-modal-window[2]/div/div/div[3]/button[2]</value>
-      <webElementGuid>11cdbc10-2ecd-4a0f-84b0-68e424986969</webElementGuid>
+      <webElementGuid>2ce4d88b-e3d2-430d-8139-67503d93a0b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Pilih' or . = 'Pilih')]</value>
-      <webElementGuid>4ecd5c3c-11d5-4b0b-ad77-39e32f5c6687</webElementGuid>
+      <webElementGuid>046832dd-ac5e-460e-9928-564a123ef50e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[13]</value>
-      <webElementGuid>4d694b4f-856e-4883-b39f-4022c94c309d</webElementGuid>
+      <webElementGuid>b3b9515a-35e5-4995-a60e-343329ec9ad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='staticBackdrop_1']/div/div/div[3]/button[2]</value>
-      <webElementGuid>ebaefa1a-e6e2-4927-ba6d-b98324711584</webElementGuid>
+      <webElementGuid>333620b7-a4fd-4f56-9f83-9c5fd5d571ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/following::button[1]</value>
-      <webElementGuid>13e0d695-8342-4d07-91d4-ebafe822d5e8</webElementGuid>
+      <webElementGuid>02d150f8-2027-49e4-80b3-2626caf0ea33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Template 25'])[2]/following::button[2]</value>
-      <webElementGuid>c6f4cd76-dde0-4f3c-beba-d0065c51ad09</webElementGuid>
+      <webElementGuid>c61c4cbe-4ba3-450d-8cc1-b9006f192bb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Section'])[1]/preceding::button[1]</value>
-      <webElementGuid>d38b2c62-9457-4143-a39f-d9f619bf7972</webElementGuid>
+      <webElementGuid>b5da6ba7-fae0-4523-bcd4-b97d826fb990</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[3]/preceding::button[2]</value>
-      <webElementGuid>a7dc2962-725f-4aee-a39b-e64907e70c32</webElementGuid>
+      <webElementGuid>787b3b3d-6003-49c2-8faf-b19953281540</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,6 +182,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/div/div[3]/button[2]</value>
-      <webElementGuid>2d1f163d-6934-4f96-b3ac-ef3509170d2c</webElementGuid>
+      <webElementGuid>abfe8176-b0db-4417-953f-c17f08416ce8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

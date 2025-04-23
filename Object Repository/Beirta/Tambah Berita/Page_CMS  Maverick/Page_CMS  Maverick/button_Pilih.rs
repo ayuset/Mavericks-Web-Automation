@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;staticBackdrop_1&quot;]/div/div/div[3]/button[2]</value>
+         <value>//button[@type = 'button' and (text() = 'Pilih' or . = 'Pilih')]</value>
       </entry>
       <entry>
          <key>CSS</key>

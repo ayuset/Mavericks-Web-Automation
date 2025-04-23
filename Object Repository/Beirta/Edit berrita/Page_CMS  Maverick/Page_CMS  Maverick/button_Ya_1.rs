@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[36]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

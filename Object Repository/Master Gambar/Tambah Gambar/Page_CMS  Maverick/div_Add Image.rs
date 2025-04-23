@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/ngb-modal-window/div/div/div[2]/app-form-image/form/div/div/div/div/div[1]/div/div[3]/div/app-modal-upload-image/div/div/input</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gambar'])[1]/following::div[4]</value>
       </entry>
       <entry>
          <key>CSS</key>

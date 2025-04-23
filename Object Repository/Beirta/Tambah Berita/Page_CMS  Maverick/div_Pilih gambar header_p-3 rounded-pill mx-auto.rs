@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih gambar header'])[1]/following::div[7]</value>
+         <value>/html/body/ngb-modal-window/div/div/div[2]/div/div/div/div/button/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bb20fbe9-095a-4af4-84f1-46d8fae29d0a</webElementGuid>
+      <webElementGuid>b17f4af0-f653-4836-9879-9553797db2f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-3 rounded-pill mx-auto</value>
-      <webElementGuid>87be613c-4919-4dbf-abd4-cc48109ca6b2</webElementGuid>
+      <webElementGuid>1a9f02ee-b419-4a44-8e26-0ae49d306e70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-flex column-gap-3 justify-content-center align-content-center&quot;]/button[1]/div[@class=&quot;p-3 rounded-pill mx-auto&quot;]</value>
-      <webElementGuid>a251145a-e62b-4af7-a25a-deb347cbc40d</webElementGuid>
+      <webElementGuid>83d3735f-94ac-4208-a195-1fe07300e661</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih gambar header'])[1]/following::div[7]</value>
-      <webElementGuid>c1d00cee-db7e-4c0d-be7d-0a06365c3022</webElementGuid>
+      <webElementGuid>15a09b2d-250b-4d81-85b8-4fc1588ac8a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/following::div[10]</value>
-      <webElementGuid>26a732eb-1a60-4330-8653-d6e86aad21a5</webElementGuid>
+      <webElementGuid>c8e76ddc-08a9-4993-a317-cb152c9e8cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>72dc6517-c930-435a-89bd-9a3d1ed1496d</webElementGuid>
+      <webElementGuid>fd15ff4f-92be-473f-b9f0-007adb829a50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih gambar header'])[1]/following::div[6]</value>
-      <webElementGuid>b2f59b4c-20a1-43d1-b5eb-fbffed420b37</webElementGuid>
+      <webElementGuid>12946cbc-3fb2-4ae3-b55c-56970f303ebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/following::div[9]</value>
-      <webElementGuid>e121c78e-4bcf-4382-b944-2de124b3676c</webElementGuid>
+      <webElementGuid>3c387238-ea7b-4574-96e3-34c09491813d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/label/div</value>
-      <webElementGuid>b0837e81-c408-4593-8d42-21fee1283aef</webElementGuid>
+      <webElementGuid>56dc21c7-4d1c-4f14-b66c-c13eab464d89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

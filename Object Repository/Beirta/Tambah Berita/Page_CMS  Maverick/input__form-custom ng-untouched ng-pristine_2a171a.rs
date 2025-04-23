@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='searchTitleHeader']</value>
+         <value>/html/body/ngb-modal-window[2]/div/div/div[2]/div/div[1]/div[2]/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>30468d99-c25d-48a1-a93f-3198607d1177</webElementGuid>
+      <webElementGuid>ddc03447-94ca-4533-babf-6b95e6810e2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari gambar...</value>
-      <webElementGuid>5384e8b6-e8bf-44ef-ae15-da70a580c7c2</webElementGuid>
+      <webElementGuid>379960a5-dfb5-4fbb-aed1-a5a0bcdfc5a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>19581f5a-fb30-4e12-8d17-a44b26397a26</webElementGuid>
+      <webElementGuid>aaf9d473-9b50-4759-8f58-4274787a9ecb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>943a1065-583b-4799-953b-c99838e6e666</webElementGuid>
+      <webElementGuid>301f4d09-e237-40af-a9fe-c14c1d89b948</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-flex column-gap-2 justify-content-end filterCard&quot;]/div[@class=&quot;position-relative d-inline-block&quot;]/input[@class=&quot;form-control form-control-sm d-inline-block mr-2 field-responsive field-responsive-ipad pr-4 ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>fda6bda0-8b09-4661-b32c-16282835da06</webElementGuid>
+      <webElementGuid>7a020771-636c-4fa4-ba26-d69bedfc948f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>searchTitleHeader</value>
-      <webElementGuid>e5ba4000-d2ab-40e6-b397-220ac01dac9e</webElementGuid>
+      <webElementGuid>8de54d93-131d-4999-911f-147414c1363a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='searchTitleHeader']</value>
-      <webElementGuid>625bf5bf-9878-449d-ae0e-a0ef0cf3b2e8</webElementGuid>
+      <webElementGuid>dde561e5-b490-4c84-accd-056346cbb911</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ngb-modal-window[2]/div/div/div[2]/div/div/div[2]/input</value>
-      <webElementGuid>0511f4bd-af6a-4db4-8ca5-9edd79527c17</webElementGuid>
+      <webElementGuid>8868c2d6-f078-4a19-b203-6fd5a1b59739</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Cari gambar...' and @name = 'searchTitleHeader']</value>
-      <webElementGuid>e08aa3b8-3d90-45d7-87a6-5637c9ec5b8e</webElementGuid>
+      <webElementGuid>ddafbd6f-1e07-4e77-bfda-dfb15552b7b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='password']</value>
-      <webElementGuid>32975c01-b735-45cf-bc0d-f34cf6dcd408</webElementGuid>
+      <webElementGuid>6d3da708-43de-4ab9-90df-8492b42ded61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>b9802387-5cc9-4819-8ba5-e6f980328a3d</webElementGuid>
+      <webElementGuid>451e3d55-f8e0-4fe5-b7a0-724d5cffa362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Password.....' and @type = 'password']</value>
-      <webElementGuid>8dfbea1e-95aa-4a18-ba2b-67753d1d4764</webElementGuid>
+      <webElementGuid>3e2d7354-2816-43ae-9d55-b047e5d93e2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
