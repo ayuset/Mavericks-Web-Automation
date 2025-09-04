@@ -85,13 +85,13 @@ WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/button_pilih
 WebUI.setText(findTestObject('Object Repository/Beirta/Tambah Berita/Page_CMS  Maverick/input_Judul_template_param_key_title'), 
     GlobalVariable.isi_judul_template)
 
-WebUI.setText(findTestObject('Object Repository/Beirta/Tambah Berita/Page_CMS  Maverick/p'), GlobalVariable.caption_image)
+WebUI.setText(findTestObject('Object Repository/Beirta/Tambah Berita/Page_CMS  Maverick/p'), 'coba')
 
 WebUI.scrollToElement(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/Button_ add section'), 0)
 
 WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/Button_ add section'))
 
-not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/btn_pilih template'))
+WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/btn_pilih template'))
 
 not_run: WebUI.click(findTestObject('Beirta/Tambah Berita/Page_CMS  Maverick/input_Template 1_template4_1'))
 
